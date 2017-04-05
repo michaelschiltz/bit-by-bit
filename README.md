@@ -1,5 +1,4 @@
 # bit-by-bit
-## Bit-by-bit: Search Strategies, Resource  Organization, Management &amp; Sustainability; The Creation of Knowledge in  the Digital Era
 
 Thanks to the groundbreaking works of historians, anthropologists, sociologists and researchers in related interdisciplinary fields (medium theory, cybernetics), it has by now become accepted wisdom that not only the amount, but also the nature of scientific knowledge is a function of the constraints and opportunities that are hard-wired into the communication technologies that contain it. We are nowadays experiencing yet another sea change in information production and dissemination, conveniently summarized as the ‘digital revolution’. 
 
