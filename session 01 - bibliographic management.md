@@ -8,3 +8,4 @@ This session also discusses zotero for mobile
 
 alternatives: [sudents are encouraged to compare alternative software packages with Zotero, discuss pros and cons, ]: Mendeley, ...
 
+## Further reading
