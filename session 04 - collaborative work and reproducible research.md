@@ -1,8 +1,8 @@
 ### Collaboration and openness as a paradigm
 * [Linus' law](https://en.wikipedia.org/wiki/Linus%27s_Law): "Given enough eyeballs, all bugs are shallow".
 * open source and open access
-* crowdsourcing and the success of wikipedia
-* importantly, and possibly counterintuitively, openness and transparancy have become a means for incentivizing quality rather than sloppiness.
+* [crowdsourcing](https://en.wikipedia.org/wiki/Crowdsourcing) and the [success of wikipedia](https://www.theguardian.com/technology/2004/oct/26/g2.onlinesupplement)
+* importantly, and possibly counterintuitively, openness and transparancy have become a means for [incentivizing quality](http://www.zdnet.com/article/coverity-finds-open-source-software-quality-better-than-proprietary-code/) rather than sloppiness; however, note [predatory open access publishing](https://en.wikipedia.org/wiki/Predatory_open_access_publishing)
 
 #### Tools and packages
 * general: [Github](www.github.com)
