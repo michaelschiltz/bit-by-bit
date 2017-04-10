@@ -12,6 +12,10 @@
 * **data sharing**: [figshare](https://figshare.com/) and [zenodo](https://www.zenodo.org/) 
 
 #### To watch:
+* 14mech14. 2017. LaTeX Tutorial 10a: LaTeX + R, Knitr. Accessed April 10. https://www.youtube.com/watch?v=LrWBHqN3TUE.
+* CEBM Oxford. 2017. John Ioannidis - Why Most Clinical Research Is Not Useful. Accessed April 10. https://www.youtube.com/watch?v=Uok-7NPFn4k.
+* Talks at Google. 2017. John Ioannidis: “Reproducible Research: True or False?” | Talks at Google. Accessed April 10. https://www.youtube.com/watch?v=GPYzY9I78CI&t=2636s.
+
 
 #### Further reading
 * Gandrud, Christopher. 2015. *Reproducible Research with R and R Studio*, Second Edition. 2 edition. Boca Raton: Chapman and Hall/CRC.
