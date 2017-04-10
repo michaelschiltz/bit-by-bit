@@ -12,6 +12,9 @@
   * [Base](http://www.base-search.net/), 
   * [zetoc](http://zetoc.jisc.ac.uk/), 
   * [europeana](http://www.europeana.eu/portal/)
+* Alternative libraries:
+  * [Internet Archive](https://archive.org/)
+  * [Gutenberg Projekt](https://www.gutenberg.org/)
 * Anonymous browsing: 
   * [DuckduckGo](https://duckduckgo.com/), 
   * the Opera-browser’s [built-in VPN](https://www.opera.com/blogs/desktop/2016/04/free-vpn-integrated-opera-for-windows-mac/), and a cute little [hack](http://archiv.twoday.net/stories/11553592/) for accessing the Hathitrust collections
@@ -21,5 +24,6 @@
 #### To watch:
 
 #### Further reading
+* Battelle, John. 2005. The Search: How Google and Its Rivals Rewrote the Rules of Business and Transformed Our Culture. Portfolio.
 * Michel, Jean-Baptiste, Yuan Kui Shen, Aviva Presser Aiden, Adrian Veres, Matthew K. Gray, The Google Books Team, Joseph P. Pickett, et al. 2011. “Quantitative Analysis of Culture Using Millions of Digitized Books.” *Science* 331 (6014): 176–82. doi:10.1126/science.1199644.
 * Moretti, Franco. 2013. *Distant Reading*. 1 edition. London ; New York: Verso.
