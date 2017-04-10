@@ -10,7 +10,7 @@ This session discusses ways of doing research from within the browser window
 
 #### Social bookmarking for academics: 
 * [delicious](https://del.icio.us/); [diigo.com](https://www.diigo.com/index)
-* the pros and (mostly) cons of [researchgate](https://www.researchgate.net/) and [academia](https://www.academia.edu/) 
+* the pros and (mostly) [cons](http://blogs.discovermagazine.com/crux/2017/02/01/who-isnt-profiting-off-the-backs-of-researchers/) of [researchgate](https://www.researchgate.net/) and [academia](https://www.academia.edu/) 
 
 #### Syncing and back-up services: 
 * [Dropbox](www.dropbox.com), 
