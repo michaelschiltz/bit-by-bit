@@ -8,11 +8,16 @@ This session discusses ways of doing research from within the browser window
 #### data accessibility: 
 [wayback machine extension (chrome only)](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak), [unpaywall](http://unpaywall.org/)
 
-#### Social bookmarking: 
-[delicious](https://del.icio.us/); [diigo.com](https://www.diigo.com/index)
+#### Social bookmarking for academics: 
+* [delicious](https://del.icio.us/); [diigo.com](https://www.diigo.com/index)
+* the pros and (mostly) cons of [researchgate](https://www.researchgate.net/) and [academia](https://www.academia.edu/) 
 
 #### Syncing and back-up services: 
-[Dropbox](www.dropbox.com), Box, [Google Drive](drive.google.com); [Backupify](www.backupify.com) and ~~~Spanning~~~ (support for individual accounts terminated)
+* [Dropbox](www.dropbox.com), 
+* Box, 
+* [Google Drive](drive.google.com); 
+* [Backupify](www.backupify.com) and 
+* ~~~Spanning~~~ (support for individual accounts terminated)
 
 #### Encryption and security: 
 [https everywhere](https://www.eff.org/https-everywhere), [privacy badger](https://www.eff.org/privacybadger)
