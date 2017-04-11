@@ -25,5 +25,5 @@ This session discusses ways of doing research from within the browser window
 #### possibilities for cross-platform back-up:
 [CloudHQ](https://www.cloudhq.net/)
 
-#### Mash-up applications: 
+#### Mash-up applications: Make the WorldWideWeb work for you
 [IFTTT](https://ifttt.com), [Zapier](https://zapier.com/)
