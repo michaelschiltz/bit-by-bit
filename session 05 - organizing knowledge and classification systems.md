@@ -6,7 +6,7 @@
 * mindmapping tools
   * [coggle](https://coggle.it/)
 * looking forward to data visualization
-  * mapping social software networks by means of metadata: [tweepsmap](https://tweepsmap.com/), [mentionmapp](http://mentionmapp.com/)
+  * mapping social software networks by means of metadata: [tweepsmap](https://tweepsmap.com/), [mentionmapp](http://mentionmapp.com/), and the visualization tool Immersion, developed by MIT MediaLab.
 
 #### Folksonomies and Tagging: 
 * very common in contemporary research practice: Zotero, Diigo, [LibraryThing](https://www.librarything.com/)
