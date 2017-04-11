@@ -2,6 +2,11 @@
 
 #### Tools
 * Zotero [Timeline](https://www.zotero.org/support/timelines)
+* [Evernote](https://evernote.com/)
+* mindmapping tools
+  * [coggle](https://coggle.it/)
+* looking forward to data visualization
+  * mapping social software networks by means of metadata: [tweepsmap](https://tweepsmap.com/), [mentionmapp](http://mentionmapp.com/)
 
 #### Folksonomies and Tagging: 
 * very common in contemporary research practice: Zotero, Diigo, [LibraryThing](https://www.librarything.com/)
