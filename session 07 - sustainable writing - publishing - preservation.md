@@ -8,6 +8,7 @@
 * the pros and cons of LaTex
 * less is more: Markdown
 * markdown editors: Dillinger, StackEdit
+* Sublime Text
 * hybrid editors: Leanpub, Caret (text editor based on Sublime Text), GitHub
 * document converter: pandoc
 
