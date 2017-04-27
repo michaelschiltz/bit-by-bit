@@ -3,7 +3,11 @@
 This session discusses ways of doing research from within the browser window 
 
 #### Tools:
-[Grammarly](https://app.grammarly.com/); [Markdown rendering](http://markdown-here.com/); [Rikaikun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp?hl=en) (similar extensions exist for other languages, e.g. [Chinese](https://chrome.google.com/webstore/detail/zhongwen-chinese-english/kkmlkkjojmombglmlpbpapmhcaljjkde?hl=en) and [Korean](https://chrome.google.com/webstore/detail/toktogi-a-korean-english/domfinmkohodhgghgedfdcmonefafolm?hl=en));
+* [Grammarly](https://app.grammarly.com/); 
+* [FoxType](https://foxtype.com)
+* [Write & Improve](https://writeandimprove.com/)
+* [Markdown rendering](http://markdown-here.com/); [Rikaikun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp?hl=en); (similar extensions exist for other languages, e.g. [Chinese](https://chrome.google.com/webstore/detail/zhongwen-chinese-english/kkmlkkjojmombglmlpbpapmhcaljjkde?hl=en) and [Korean](https://chrome.google.com/webstore/detail/toktogi-a-korean-english/domfinmkohodhgghgedfdcmonefafolm?hl=en));
+
 
 #### data accessibility: 
 [wayback machine extension (chrome only)](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak), [unpaywall](http://unpaywall.org/)
