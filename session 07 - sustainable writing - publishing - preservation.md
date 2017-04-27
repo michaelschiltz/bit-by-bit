@@ -16,7 +16,10 @@
 * about file formats, technology, and legal arrangements
  * [digital preservation coalition handbook](http://www.dpconline.org/handbook/technical-solutions-and-tools/file-formats-and-standards)
  * [Library of Congress recommended format specifications](https://www.loc.gov/preservation/resources/rfs/index.html)
+ * about online, offline and 'near-line': WORM (Write Once, Read Many)-technology and the future of preservation
+ * what is an 'exit-strategy'?
 * markdown and [digital preservation](https://publish.illinois.edu/commonsknowledge/2016/12/01/digital-preservation-and-the-power-of-markdown/), including for [documenting your own research](http://programminghistorian.org/lessons/preserving-your-research-data)
+* professional digital preservation services: [arkivum](http://arkivum.com/) and [tind.io](https://tind.io/)
 * should researchers care?
 
 
