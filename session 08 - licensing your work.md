@@ -1,6 +1,7 @@
 ### Introduction
 * [free and open source licenses](https://choosealicense.com/licenses/)
 * “Comparison of Free and Open-Source Software Licenses.” 2017. Wikipedia. https://en.wikipedia.org/w/index.php?title=Comparison_of_free_and_open-source_software_licenses&oldid=774412624.
+* The people at Creative Commons [walk you through the process of licensing your work](https://creativecommons.org/choose/)
 * ... and a [guide](https://www.gnu.org/licenses/license-list.en.html) prepared by Gnu.org
 
 #### Tools
