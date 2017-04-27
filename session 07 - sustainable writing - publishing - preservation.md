@@ -26,5 +26,9 @@
 #### To watch
 
 #### Further reading
+* Bountouri, Lina. 2017. *Archives in the Digital Age: Standards, Policies and Tools*. 1 edition. Waltham, MA: Chandos Publishing.
+* Corrado, Edward M., and Heather Lea Moulaison. 2014. *Digital Preservation for Libraries, Archives, and Museums*. Rowman & Littlefield.
+* Giaretta, David. 2014. *Advanced Digital Preservation*. 2011 edition. Berlin: Springer.
+* Peleg, Dan. 2013. *Mastering Sublime Text*. Packt Publishing.
 
 #### Follow
