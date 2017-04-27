@@ -6,7 +6,7 @@ After [downloading](https://www.zotero.org/download/) 1) the stand-alone version
 
 This session also discusses zotero for mobile and a Zotero-fork, i.e. [Multilingual Zotero](http://citationstylist.org/)
 
-alternatives: [sudents are encouraged to compare alternative software packages with Zotero, discuss pros and cons, ]: Mendeley, ...
+alternatives: [sudents are encouraged to compare alternative software packages with Zotero, discuss pros and cons, ]: Mendeley, ...[^fn]
 
 #### Related: the pros and cons of clandestine libraries or the 'Guerilla Open Access movement'
 
@@ -18,3 +18,5 @@ alternatives: [sudents are encouraged to compare alternative software packages w
 * McNutt, Marcia. 2016. “My Love-Hate of Sci-Hub.” Science 352 (6285): 497–497. http://science.sciencemag.org/content/352/6285/497.short.
 
 [Zotero Support](https://www.zotero.org/support/)
+
+[^fn] /w;rhfa wrhg skgh .
