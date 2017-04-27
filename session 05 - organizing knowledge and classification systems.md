@@ -3,8 +3,11 @@
 #### Tools
 * Zotero [Timeline](https://www.zotero.org/support/timelines)
 * [Evernote](https://evernote.com/)
-* mindmapping tools
+* mindmapping and workflow tools
   * [coggle](https://coggle.it/)
+  * [draw.io](https://www.draw.io/)
+  * [lucidchart](https://www.lucidchart.com/)
+  * [desmos](https://www.desmos.com/)
 * looking forward to data visualization
   * mapping social software networks by means of metadata: [tweepsmap](https://tweepsmap.com/), [mentionmapp](http://mentionmapp.com/), and the visualization tool [Immersion](https://immersion.media.mit.edu/), developed by MIT MediaLab.
 
