@@ -6,7 +6,7 @@ After [downloading](https://www.zotero.org/download/) 1) the stand-alone version
 
 This session also discusses zotero for mobile and a Zotero-fork, i.e. [Multilingual Zotero](http://citationstylist.org/)
 
-alternatives: [sudents are encouraged to compare alternative software packages with Zotero, discuss pros and cons, ]: Mendeley, ...[^first]
+alternatives: [sudents are encouraged to compare alternative software packages with Zotero, discuss pros and cons, ]: Mendeley, ...[^dat dacht ik niet].
 
 #### Related: the pros and cons of clandestine libraries or the 'Guerilla Open Access movement'
 
