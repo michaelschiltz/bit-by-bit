@@ -14,7 +14,11 @@
 
 #### Digital preservation
 * about file formats, technology, and legal arrangements
- * markdown and [digital preservation](https://publish.illinois.edu/commonsknowledge/2016/12/01/digital-preservation-and-the-power-of-markdown/), including for [documenting your own research](http://programminghistorian.org/lessons/preserving-your-research-data)
+ * [digital preservation coalition handbook](http://www.dpconline.org/handbook/technical-solutions-and-tools/file-formats-and-standards)
+ * [Library of Congress recommended format specifications](https://www.loc.gov/preservation/resources/rfs/index.html)
+* markdown and [digital preservation](https://publish.illinois.edu/commonsknowledge/2016/12/01/digital-preservation-and-the-power-of-markdown/), including for [documenting your own research](http://programminghistorian.org/lessons/preserving-your-research-data)
+* should researchers care?
+
 
 #### To watch
 
