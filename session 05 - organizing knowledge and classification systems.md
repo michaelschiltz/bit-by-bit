@@ -6,7 +6,7 @@
 * mindmapping tools
   * [coggle](https://coggle.it/)
 * looking forward to data visualization
-  * mapping social software networks by means of metadata: [tweepsmap](https://tweepsmap.com/), [mentionmapp](http://mentionmapp.com/), and the visualization tool Immersion, developed by MIT MediaLab.
+  * mapping social software networks by means of metadata: [tweepsmap](https://tweepsmap.com/), [mentionmapp](http://mentionmapp.com/), and the visualization tool [Immersion](https://immersion.media.mit.edu/), developed by MIT MediaLab.
 
 #### Folksonomies and Tagging: 
 * very common in contemporary research practice: Zotero, Diigo, [LibraryThing](https://www.librarything.com/)
@@ -20,3 +20,4 @@
 * Schiltz, Michael, Frederik Truyen, and Hans Coppens. 2007. “Cutting the Trees of Knowledge: Social Software, Information Architecture and Their Epistemic Consequences.” *Thesis Eleven* 89 (1): 94–114. http://journals.sagepub.com/doi/abs/10.1177/0725513607076135.
 * Wichowski, Alexis. 2009. “Survival of the Fittest Tag: Folksonomies, Findability, and the Evolution of Information Organization.” *First Monday* 14 (5). http://firstmonday.org/ojs/index.php/fm/article/view/2447.
 * Zins, Chaim, and Plácida L.V.A.C. Santos. 2011. “Mapping the Knowledge Covered by Library Classification Systems.” *Journal of the American Society for Information Science and Technology* 62 (5): 877–901. doi:10.1002/asi.21481.
+ 
