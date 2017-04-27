@@ -21,7 +21,7 @@ This session discusses ways of doing research from within the browser window
 * Box, 
 * [Google Drive](drive.google.com); 
 * [Backupify](www.backupify.com) and 
-* ~~~Spanning~~~ (support for individual accounts terminated)
+* ~~~Spanning~~~ (support for individual accounts terminated on July 1 2017)
 
 #### Encryption and security: 
 [https everywhere](https://www.eff.org/https-everywhere), [privacy badger](https://www.eff.org/privacybadger)
