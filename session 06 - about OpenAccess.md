@@ -4,6 +4,11 @@
 * [unpaywall](http://unpaywall.org/)
 * Creative Commons generator for [google docs](https://chrome.google.com/webstore/detail/creative-commons-license/kmahgbmiahpfjiceilbeelhemlcbkcnb?hl=en), [OpenOffice](http://extensions.openoffice.org/en/project/creative-commons-licensing)
 
+#### OA-databases
+* The [Directory of Open Access Journals (DOAJ)](https://doaj.org/)
+* [oaister](http://oaister.worldcat.org/) open access
+
+
 #### To watch
 * The Berkman Klein Center for Internet & Society. 2017. Book Talk: Peter Suber on Open Access. Accessed April 27. https://www.youtube.com/watch?v=3nWuF7ZVG0w.
 
