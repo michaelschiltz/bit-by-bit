@@ -8,6 +8,9 @@
 * The [Directory of Open Access Journals (DOAJ)](https://doaj.org/)
 * [oaister](http://oaister.worldcat.org/) open access
 
+#### OpenCourseware
+* a [list of OCW projects](http://mashable.com/2013/08/06/opencourseware/#xTNwgLEAMPqq)
+* [Udacity](https://www.udacity.com/#)
 
 #### To watch
 * The Berkman Klein Center for Internet & Society. 2017. Book Talk: Peter Suber on Open Access. Accessed April 27. https://www.youtube.com/watch?v=3nWuF7ZVG0w.
