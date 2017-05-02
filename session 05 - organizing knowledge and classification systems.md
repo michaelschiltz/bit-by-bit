@@ -14,6 +14,10 @@
 #### Folksonomies and Tagging: 
 * very common in contemporary research practice: Zotero, Diigo, [LibraryThing](https://www.librarything.com/)
 
+#### For historians and those doing archival research
+* how to document and store your archival finds
+* 
+
 #### To watch:
 
 #### Further reading
