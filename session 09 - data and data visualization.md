@@ -1,4 +1,6 @@
 ### Introduction
+* [History](http://infowetrust.com/history/) of data visualization
+* Friendly, Michael. 2008. “A Brief History of Data Visualization.” In Handbook of Data Visualization, 15–56. Springer Handbooks Comp.Statistics. Springer Berlin Heidelberg. http://link.springer.com/chapter/10.1007/978-3-540-33037-0_2.
 
 #### Tools
 * [plotly](https://plot.ly/): a d3js based online tool for analytics and data visualization
@@ -11,3 +13,11 @@
 
 * [R or Python for data analysis?](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis#gs.==1Rk0g)
 
+* visualization gone wrong
+  * [WTF visualizations](http://viz.wtf/)
+  * [calling bullshit](http://callingbullshit.org/)
+  * [misguidedmaps](https://misguidedmaps.com/)
+  
+* the illusion of data neutrality
+  * [algorithmic accountability](https://techcrunch.com/2017/04/30/algorithmic-accountability/)
+  * [the politics of data](http://blogs.lse.ac.uk/impactofsocialsciences/the-politics-of-data-series/)
