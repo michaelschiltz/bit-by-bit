@@ -1,6 +1,7 @@
 ### Introduction
-* [History](http://infowetrust.com/history/) of data visualization
+* [History](http://infowetrust.com/history/) of data visualization; [another one](http://data-art.net/resources/history_of_vis.php); and [one more](http://www.datavis.ca/gallery/historical.php)
 * Friendly, Michael. 2008. “A Brief History of Data Visualization.” In *Handbook of Data Visualization*, 15–56. Springer Handbooks Comp.Statistics. Springer Berlin Heidelberg. http://link.springer.com/chapter/10.1007/978-3-540-33037-0_2.
+* Michael Friendly's [page](http://www.datavis.ca/index.php) 
 
 #### Tools
 * [plotly](https://plot.ly/): a d3js based online tool for analytics and data visualization
@@ -21,3 +22,11 @@
 * the illusion of data neutrality
   * [algorithmic accountability](https://techcrunch.com/2017/04/30/algorithmic-accountability/)
   * [the politics of data](http://blogs.lse.ac.uk/impactofsocialsciences/the-politics-of-data-series/)
+
+* data hacking
+  * p-hacking and [data dredging](https://en.wikipedia.org/wiki/Data_dredging)
+  * Head, Megan L., Luke Holman, Rob Lanfear, Andrew T. Kahn, and Michael D. Jennions. 2015. “The Extent and Consequences of P-Hacking in Science.” *PLOS Biology* 13 (3): e1002106. doi:10.1371/journal.pbio.1002106.
+  * why don't you p-hack your way to scientific glory -an [exercise](https://projects.fivethirtyeight.com/p-hacking/)?
+  
+* To watch:
+  * 
