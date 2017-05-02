@@ -1,6 +1,6 @@
 ### Introduction
 * [History](http://infowetrust.com/history/) of data visualization
-* Friendly, Michael. 2008. “A Brief History of Data Visualization.” In Handbook of Data Visualization, 15–56. Springer Handbooks Comp.Statistics. Springer Berlin Heidelberg. http://link.springer.com/chapter/10.1007/978-3-540-33037-0_2.
+* Friendly, Michael. 2008. “A Brief History of Data Visualization.” In *Handbook of Data Visualization*, 15–56. Springer Handbooks Comp.Statistics. Springer Berlin Heidelberg. http://link.springer.com/chapter/10.1007/978-3-540-33037-0_2.
 
 #### Tools
 * [plotly](https://plot.ly/): a d3js based online tool for analytics and data visualization
