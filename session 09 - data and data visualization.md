@@ -29,4 +29,4 @@
   * why don't you p-hack your way to scientific glory -an [exercise](https://projects.fivethirtyeight.com/p-hacking/)?
   
 * To watch:
-  * 
+  * [Merchants of Doubt](http://www.merchantsofdoubt.org/)
