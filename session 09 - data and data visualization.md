@@ -24,10 +24,12 @@
   * [algorithmic accountability](https://techcrunch.com/2017/04/30/algorithmic-accountability/)
   * [the politics of data](http://blogs.lse.ac.uk/impactofsocialsciences/the-politics-of-data-series/)
 
-* data hacking
+* data hacking and compromised peer-review
   * p-hacking and [data dredging](https://en.wikipedia.org/wiki/Data_dredging)
   * Head, Megan L., Luke Holman, Rob Lanfear, Andrew T. Kahn, and Michael D. Jennions. 2015. “The Extent and Consequences of P-Hacking in Science.” *PLOS Biology* 13 (3): e1002106. doi:10.1371/journal.pbio.1002106.
   * why don't you p-hack your way to scientific glory -an [exercise](https://projects.fivethirtyeight.com/p-hacking/)?
+  * in the news: Stigbrand, Torgny. 2017. “Retraction Note to Multiple Articles in Tumor Biology.” Tumor Biology, April, 1–6. doi:10.1007/s13277-017-5487-6.
+  * [retractionwatch](http://retractionwatch.com/)
   
 * To watch:
   * [Merchants of Doubt](http://www.merchantsofdoubt.org/)
