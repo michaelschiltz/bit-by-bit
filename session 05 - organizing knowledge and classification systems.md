@@ -16,10 +16,10 @@
 
 #### For historians and those doing archival research
 * how to document and store your archival finds
-* 
 
 #### Classification and power
-* Drabinski, Emily. 2017. “A Space for Pleasures of All Kinds: On ‘Cruising the Library.’” Los Angeles Review of Books. Accessed May 16. https://lareviewofbooks.org/article/a-space-for-pleasures-of-all-kinds-on-cruising-the-library/.
+* Drabinski, Emily. 2017. “A Space for Pleasures of All Kinds: On ‘Cruising the Library.’” *Los Angeles Review of Books*. Accessed May 16. https://lareviewofbooks.org/article/a-space-for-pleasures-of-all-kinds-on-cruising-the-library/.
+* Winn, Sam. 2017. “The Hubris of Neutrality in Archives.” On Archivy. April 139. https://medium.com/on-archivy/the-hubris-of-neutrality-in-archives-8df6b523fe9f.
 
 #### To watch:
 
