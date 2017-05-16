@@ -18,6 +18,9 @@
 * how to document and store your archival finds
 * 
 
+#### Classification and power
+* Drabinski, Emily. 2017. “A Space for Pleasures of All Kinds: On ‘Cruising the Library.’” Los Angeles Review of Books. Accessed May 16. https://lareviewofbooks.org/article/a-space-for-pleasures-of-all-kinds-on-cruising-the-library/.
+
 #### To watch:
 
 #### Further reading
