@@ -9,6 +9,7 @@
   * Perkel, Jeffrey. 2016. “Democratic Databases: Science on GitHub.” *Nature News* 538 (7623): 127. doi:10.1038/538127a.
   * [Why we need a GitHub for science](http://www.slate.com/articles/technology/future_tense/2017/04/we_need_a_github_for_academic_research.html)
 * **collaborative writing**: [Overleaf](https://www.overleaf.com/), [ShareLatex](https://www.sharelatex.com/); also, note the existence of the [ctan](https://www.ctan.org/)-pages, a library for packages you may need to install when using LaTex. 
+* [Authorea](https://www.authorea.com/) for collaborative writing
 * these days, google docs too has a nice LaTex (or more accurately, MathJax) integration: [Auto-LaTeX-equations](https://sites.google.com/site/autolatexequations/)
 * [knitr](https://yihui.name/knitr/) with R and Latex: "The <strong>knitr</strong> package was designed to be a transparent engine for dynamic report generation with R, solve some long-standing problems in Sweave, and combine features in other add-on packages into one package (<strong>knitr</strong> &asymp; Sweave + cacheSweave + pgfSweave + weaver <code>animation::saveLatex</code> + <code>R2HTML::RweaveHTML</code> + <code>highlight::HighlightWeaveLatex</code> + 0.2 * brew + 0.1 * SweaveListingUtils + more)."
 * comparable to the aforementioned Ctan-pages, there exists a library for R-packages, which is called [Cran](https://cran.r-project.org).
