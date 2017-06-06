@@ -10,7 +10,7 @@ This session discusses ways of doing research from within the browser window
 
 
 #### data accessibility: 
-[wayback machine extension (chrome only)](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak), [unpaywall](http://unpaywall.org/)
+[wayback machine extension (chrome only)](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak), [unpaywall](http://unpaywall.org/), [canaryhaz](https://www.canaryhaz.com/)
 
 #### Social bookmarking for academics: 
 * [delicious](https://del.icio.us/); [diigo.com](https://www.diigo.com/index)
