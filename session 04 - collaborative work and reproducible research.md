@@ -29,6 +29,7 @@
 * Balbaert, Ivo. 2015. *Getting Started with Julia Programming Language*. Birmingham: Packt Publishing - ebooks Account.
 * Balbaert, Ivo, Avik Sengupta, and Malcolm Sherrington. 2016. *Julia: High Performance Programming*. 1 edition. Packt Publishing.
 * Chambers, Chris. 2017. *The Seven Deadly Sins of Psychology: A Manifesto for Reforming the Culture of Scientific Practice*. Princeton, NJ: Princeton University Press.
+* Colquhoun, David. 2017. “The Reproducibility Of Research And The Misinterpretation Of P Values.” bioRxiv, June, 144337. doi:10.1101/144337.
 * Gandrud, Christopher. 2015. *Reproducible Research with R and R Studio*, Second Edition. 2 edition. Boca Raton: Chapman and Hall/CRC.
 * Kitzes, Justin, Daniel Turek, and Fatma Deniz, eds. 2017. *The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences*. University of California Press.
 * Stodden, Victoria, Friedrich Leisch, and Roger D. Peng, eds. 2014. *Implementing Reproducible Research*. Boca Raton: Chapman and Hall/CRC.
