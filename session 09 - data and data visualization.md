@@ -1,5 +1,6 @@
 ### Introduction
 * [History](http://infowetrust.com/history/) of data visualization; [another one](http://data-art.net/resources/history_of_vis.php); and [one more](http://www.datavis.ca/gallery/historical.php)
+* “‘Words Divide, Pictures Unite’ – Great Historic Examples of the Use of Data Visualisation for Research Communication.” 2017. June 20. http://blogs.lse.ac.uk/impactofsocialsciences/2017/06/20/historic-examples-of-using-data-visualisation-for-research-communication/.
 * Friendly, Michael. 2008. “A Brief History of Data Visualization.” In *Handbook of Data Visualization*, 15–56. Springer Handbooks Comp.Statistics. Springer Berlin Heidelberg. http://link.springer.com/chapter/10.1007/978-3-540-33037-0_2.
 * Michael Friendly's [page](http://www.datavis.ca/index.php) 
 
