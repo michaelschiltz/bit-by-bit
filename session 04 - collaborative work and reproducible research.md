@@ -16,7 +16,7 @@
 * comparable to the aforementioned Ctan-pages, there exists a library for R-packages, which is called [Cran](https://cran.r-project.org).
 * [Stencila](https://stenci.la/): "The calls for research to be transparent and reproducible have never been louder. But today's tools for reproducible research can be intimidating - especially if you're not a coder. We're building software for reproducible research with the intuitive, visual interfaces that you and your colleagues are used to."
 * [Julia](https://julialang.org/) and [Weave.jl](https://github.com/mpastell/Weave.jl): is this the 'dynamic documents' of the (immediate) future?
-* **data sharing**: [figshare](https://figshare.com/), [zenodo](https://www.zenodo.org/), and [Dryad](https://datadryad.org/)
+* **data sharing**: [figshare](https://figshare.com/), [zenodo](https://www.zenodo.org/), and [Dryad](https://datadryad.org/); [OpenAire](https://www.openaire.eu/), and Harvard's [DataVerse](https://dataverse.org/)-project
 * as an important player, [Nature has started to take reproducability very seriously](https://www.nature.com/news/announcement-towards-greater-reproducibility-for-life-sciences-research-in-nature-1.22062?WT.mc_id=TWT_NatureNews&sf84509261=1).
 
 #### To watch:
