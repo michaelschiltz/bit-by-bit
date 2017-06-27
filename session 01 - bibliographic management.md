@@ -10,6 +10,10 @@ alternatives: [sudents are encouraged to compare alternative software packages w
 
 #### Related: the pros and cons of clandestine libraries or the 'Guerilla Open Access movement'
 
+#### Alternative access to research papers:
+* [OpenAccessButton](https://openaccessbutton.org/)
+* [Canary Haz](https://canaryhaz.com/)
+
 
 #### Further reading
 * Bohannon, John, 2016, and 2:00 Pm. 2016. “Who’s Downloading Pirated Papers? Everyone.” Science | AAAS. April 25. http://www.sciencemag.org/news/2016/04/whos-downloading-pirated-papers-everyone.
