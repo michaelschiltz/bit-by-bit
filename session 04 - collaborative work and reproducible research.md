@@ -4,7 +4,7 @@
 * [crowdsourcing](https://en.wikipedia.org/wiki/Crowdsourcing) and the [success of wikipedia](https://www.theguardian.com/technology/2004/oct/26/g2.onlinesupplement)
 * importantly, and possibly counterintuitively, openness and transparancy have become a means for [incentivizing quality](http://www.zdnet.com/article/coverity-finds-open-source-software-quality-better-than-proprietary-code/) rather than sloppiness; however, note [predatory open access publishing](https://en.wikipedia.org/wiki/Predatory_open_access_publishing)
 * pitfalls of popular, proprietary formats:
- * Fowler, Dan. 2017. “Excel Is Threatening the Quality of Research Data — Data Packages Are Here to Help.” February 22. http://blogs.lse.ac.uk/impactofsocialsciences/2017/02/22/excel-is-threatening-the-quality-of-research-data-data-packages-are-here-to-help/.
+  * Fowler, Dan. 2017. “Excel Is Threatening the Quality of Research Data — Data Packages Are Here to Help.” February 22. http://blogs.lse.ac.uk/impactofsocialsciences/2017/02/22/excel-is-threatening-the-quality-of-research-data-data-packages-are-here-to-help/.
 
 #### Tools and packages
 * general: [Github](www.github.com)
