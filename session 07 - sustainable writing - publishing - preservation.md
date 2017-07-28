@@ -2,6 +2,7 @@
 * the leniency and flexibility of digital information is at the same time a threat to its longevity
 * "[bit rot](https://en.wikipedia.org/wiki/Software_rot)"
 * [digital black hole](https://www.theguardian.com/technology/2015/feb/16/digital-black-hole-delete-memories-information-lost-google-vint-cerf) (Vincent Cerf)
+* for an idea of the scope of the challenges we are facing, check the [Museum of Obsolete Media](http://www.obsoletemedia.org/)
 * on the researcher-level: how to guarantee the readability of publications in the future, including in the very long run? Will complex mark-up (html, xml) still be comprehensible, if not to machines, then [to the human eye](https://daringfireball.net/projects/markdown/syntax#philosophy)?
  
 #### Tools and Languages
