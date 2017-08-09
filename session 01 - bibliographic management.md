@@ -12,7 +12,7 @@ alternatives: [sudents are encouraged to compare alternative software packages w
 
 #### Alternative access to research papers:
 * [OpenAccessButton](https://openaccessbutton.org/)
-* [Canary Haz](https://canaryhaz.com/)
+* formerly ~~[Canary Haz](https://canaryhaz.com/)~~, since August 2017 [Kopernio](https://kopernio.com/) 
 
 
 #### Further reading
