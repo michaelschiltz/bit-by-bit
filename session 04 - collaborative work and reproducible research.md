@@ -12,7 +12,7 @@
 * general: [Github](www.github.com)
   * Perkel, Jeffrey. 2016. “Democratic Databases: Science on GitHub.” *Nature News* 538 (7623): 127. doi:10.1038/538127a.
   * [Why we need a GitHub for science](http://www.slate.com/articles/technology/future_tense/2017/04/we_need_a_github_for_academic_research.html)
-  * and [why don't you try out for yourself](https://try.github.io/)?
+  * and [why don't you try it out yourself](https://try.github.io/)?
 * **collaborative writing**: [Overleaf](https://www.overleaf.com/), [ShareLatex](https://www.sharelatex.com/); also, note the existence of the [ctan](https://www.ctan.org/)-pages, a library for packages you may need to install when using LaTex. 
 * [Authorea](https://www.authorea.com/) for collaborative writing
 * these days, google docs too has a nice LaTex (or more accurately, MathJax) integration: [Auto-LaTeX-equations](https://sites.google.com/site/autolatexequations/)
