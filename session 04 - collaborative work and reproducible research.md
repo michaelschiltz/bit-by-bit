@@ -21,8 +21,11 @@
 * [Jupyter](https://jupyter.org/): "Project Jupyter is an open source project was born out of the <a href="https://ipython.org">IPython Project</a> in 2014 as it evolved to support interactive data science and scientific computing across all programming languages. Jupyter will always be 100% open source software, free for all to use and released under the liberal terms of the <a href="https://opensource.org/licenses/BSD-3-Clause">modified BSD license</a>"
 * [Stencila](https://stenci.la/): "The calls for research to be transparent and reproducible have never been louder. But today's tools for reproducible research can be intimidating - especially if you're not a coder. We're building software for reproducible research with the intuitive, visual interfaces that you and your colleagues are used to."
 * [Julia](https://julialang.org/) and [Weave.jl](https://github.com/mpastell/Weave.jl): is this the 'dynamic documents' of the (immediate) future?
+* [Sublime Text](https://www.sublimetext.com/): "Sublime Text is a sophisticated text editor for code, markup and prose.
+You'll love the slick user interface, extraordinary features and amazing performance."; for chromebook users, see [Caret](http://thomaswilburn.net/caret/)
 * **data sharing**: [figshare](https://figshare.com/), [zenodo](https://www.zenodo.org/), and [Dryad](https://datadryad.org/); [OpenAire](https://www.openaire.eu/), and Harvard's [DataVerse](https://dataverse.org/)-project
 * as an important player, [Nature has started to take the reproducibility very seriously](https://www.nature.com/news/announcement-towards-greater-reproducibility-for-life-sciences-research-in-nature-1.22062?WT.mc_id=TWT_NatureNews&sf84509261=1).
+* the quest for transparency may even change the process of scientific publishing: see, for instance, [ScienceOpen](https://www.scienceopen.com/), "a professional networking platform for scholars to enhance their research in the open, make an impact, and receive credit for it. We provide context building services for publishers, to bring researchers closer to the content than ever before." 
 
 #### To watch:
 * 14mech14. 2017. LaTeX Tutorial 10a: LaTeX + R, Knitr. Accessed April 10. https://www.youtube.com/watch?v=LrWBHqN3TUE.
