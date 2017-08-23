@@ -8,7 +8,10 @@ This session also discusses zotero for mobile and a Zotero-fork, i.e. [Multiling
 
 alternatives: [sudents are encouraged to compare alternative software packages with Zotero, discuss pros and cons, ]: Mendeley, ....
 
-#### Related: the pros and cons of clandestine libraries or the 'Guerilla Open Access movement'
+#### Related: the pros and cons of clandestine libraries or the 'Guerilla Open Access movement'...
+
+#### ...and the case for openness:
+* [Paywall the Movie: The Business of Scholarship](http://paywallthemovie.com/)
 
 #### Alternative access to research papers:
 * [OpenAccessButton](https://openaccessbutton.org/)
