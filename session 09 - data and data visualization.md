@@ -37,7 +37,7 @@
 * To watch:
   * [Merchants of Doubt](http://www.merchantsofdoubt.org/)
 
-* References:
+#### References:
 * McKinney, Wes. 2017. *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython*. 2 edition. s.l.: O’Reilly Media.
 * VanderPlas, Jake. 2016. *Python Data Science Handbook: Essential Tools for Working with Data*. 1st ed. Sebastopol, CA: O’Reilly UK Ltd.
 * Voulgaris, Zacharias. 2016. *Julia for Data Science*. First edition. Basking Ridge, NJ: Technics Publications.
