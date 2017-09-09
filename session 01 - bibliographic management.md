@@ -17,6 +17,7 @@ alternatives: [sudents are encouraged to compare alternative software packages w
 
 #### Alternative access to research papers:
 * [OpenAccessButton](https://openaccessbutton.org/)
+* [unpaywall](http://unpaywall.org/)
 * formerly ~~[Canary Haz](https://canaryhaz.com/)~~, since August 2017 [Kopernio](https://kopernio.com/) 
 
 
