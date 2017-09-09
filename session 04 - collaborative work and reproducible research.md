@@ -40,7 +40,5 @@ You'll love the slick user interface, extraordinary features and amazing perform
 * Colquhoun, David. 2017. “The Reproducibility Of Research And The Misinterpretation Of P Values.” bioRxiv, June, 144337. doi:10.1101/144337.
 * Gandrud, Christopher. 2015. *Reproducible Research with R and R Studio*, Second Edition. 2 edition. Boca Raton: Chapman and Hall/CRC.
 * Kitzes, Justin, Daniel Turek, and Fatma Deniz, eds. 2017. *The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences*. University of California Press.
-* McKinney, Wes. 2017. *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython*. 2 edition. s.l.: O’Reilly Media.
 * Stodden, Victoria, Friedrich Leisch, and Roger D. Peng, eds. 2014. *Implementing Reproducible Research*. Boca Raton: Chapman and Hall/CRC.
-* Voulgaris, Zacharias. 2016. *Julia for Data Science*. First edition. Basking Ridge, NJ: Technics Publications.
 * Xie, Yihui. 2015. *Dynamic Documents with R and Knitr*, Second Edition. 2 edition. Boca Raton: Chapman and Hall/CRC.
