@@ -3,6 +3,7 @@
 * “‘Words Divide, Pictures Unite’ – Great Historic Examples of the Use of Data Visualisation for Research Communication.” 2017. June 20. http://blogs.lse.ac.uk/impactofsocialsciences/2017/06/20/historic-examples-of-using-data-visualisation-for-research-communication/.
 * Friendly, Michael. 2008. “A Brief History of Data Visualization.” In *Handbook of Data Visualization*, 15–56. Springer Handbooks Comp.Statistics. Springer Berlin Heidelberg. http://link.springer.com/chapter/10.1007/978-3-540-33037-0_2.
 * Michael Friendly's [page](http://www.datavis.ca/index.php) 
+* [*Data Visualization for Social Science: A practical introduction with R and ggplot2*](http://socviz.co/index.html#preface)
 
 #### Tools
 * [plotly](https://plot.ly/): a d3js based online tool for analytics and data visualization
