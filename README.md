@@ -1,7 +1,7 @@
 # bit-by-bit
 ## Search Strategies, Resource Organization, Management & Sustainability; The Creation of Knowledge in the Digital Era
 
-`"Media are not pseudopods for extending the human body. They follow the logic of escalation that leaves us and written history behind it.` Friedrich Kittler
+`"Media are not pseudopods for extending the human body. They follow the logic of escalation that leaves us and written history behind it."` Friedrich Kittler
 
 Thanks to the groundbreaking works of historians, anthropologists, sociologists and researchers in related interdisciplinary fields (medium theory, cybernetics), it has by now become accepted wisdom that not only the *amount*, but also the *nature* of scientific knowledge is a function of the constraints and opportunities that are hard-wired into the communication technologies that contain it. We are nowadays experiencing yet another sea change in information production and dissemination, conveniently summarized as the ‘digital revolution’. 
 
