@@ -15,6 +15,8 @@
 * [Rawgraphs.io](http://rawgraphs.io/): 
 
 * [R or Python for data analysis?](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis#gs.==1Rk0g)
+  * [R for Data Science](http://r4ds.had.co.nz/)
+  * the [Jupyter pages for Python Data Science](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 * visualization gone wrong
   * [WTF visualizations](http://viz.wtf/)
@@ -34,3 +36,9 @@
   
 * To watch:
   * [Merchants of Doubt](http://www.merchantsofdoubt.org/)
+
+* References:
+* McKinney, Wes. 2017. *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython*. 2 edition. s.l.: O’Reilly Media.
+* VanderPlas, Jake. 2016. *Python Data Science Handbook: Essential Tools for Working with Data*. 1st ed. Sebastopol, CA: O’Reilly UK Ltd.
+* Voulgaris, Zacharias. 2016. *Julia for Data Science*. First edition. Basking Ridge, NJ: Technics Publications.
+* Wickham, Hadley, and Garrett Grolemund. 2017. *R for Data Science: Import, Tidy, Transform, Visualize, and Model Data*. 1 edition. s.l: O’Reilly Media.
