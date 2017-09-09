@@ -30,7 +30,8 @@
 
 * data hacking and compromised peer-review
   * p-hacking and [data dredging](https://en.wikipedia.org/wiki/Data_dredging)
-  * Head, Megan L., Luke Holman, Rob Lanfear, Andrew T. Kahn, and Michael D. Jennions. 2015. “The Extent and Consequences of P-Hacking in Science.” *PLOS Biology* 13 (3): e1002106. doi:10.1371/journal.pbio.1002106.
+    * Head, Megan L., Luke Holman, Rob Lanfear, Andrew T. Kahn, and Michael D. Jennions. 2015. “The Extent and Consequences of P-Hacking in Science.” *PLOS Biology* 13 (3): e1002106. doi:10.1371/journal.pbio.1002106.
+    * **a seminal paper**: Ioannidis, John P. A. 2005. “Why Most Published Research Findings Are False.” PLOS Med 2 (8): e124. doi:10.1371/journal.pmed.0020124.
   * why don't you p-hack your way to scientific glory -an [exercise](https://projects.fivethirtyeight.com/p-hacking/)?
   * in the news: Stigbrand, Torgny. 2017. “Retraction Note to Multiple Articles in Tumor Biology.” Tumor Biology, April, 1–6. doi:10.1007/s13277-017-5487-6.
   * [retractionwatch](http://retractionwatch.com/)
@@ -39,7 +40,6 @@
   * [Merchants of Doubt](http://www.merchantsofdoubt.org/)
 
 #### References:
-* **a seminal paper**: Ioannidis, John P. A. 2005. “Why Most Published Research Findings Are False.” PLOS Med 2 (8): e124. doi:10.1371/journal.pmed.0020124.
 * McKinney, Wes. 2017. *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython*. 2 edition. s.l.: O’Reilly Media.
 * VanderPlas, Jake. 2016. *Python Data Science Handbook: Essential Tools for Working with Data*. 1st ed. Sebastopol, CA: O’Reilly UK Ltd.
 * Voulgaris, Zacharias. 2016. *Julia for Data Science*. First edition. Basking Ridge, NJ: Technics Publications.
