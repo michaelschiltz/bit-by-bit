@@ -12,6 +12,7 @@
 * [Sublime Text](https://www.sublimetext.com/)
 * hybrid editors: [Leanpub](https://leanpub.com/), [Caret](https://chrome.google.com/webstore/detail/caret/fljalecfjciodhpcledpamjachpmelml?hl=en) (text editor based on Sublime Text), [GitHub](https://github.com/)
 * document converter: [pandoc](http://pandoc.org/)
+* [GitBook](https://www.gitbook.com/)
 
 #### Digital preservation
 * about file formats, technology, and legal arrangements
