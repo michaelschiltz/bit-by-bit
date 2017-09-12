@@ -23,7 +23,9 @@
 * markdown and [digital preservation](https://publish.illinois.edu/commonsknowledge/2016/12/01/digital-preservation-and-the-power-of-markdown/), including for [documenting your own research](http://programminghistorian.org/lessons/preserving-your-research-data)
 * professional digital preservation services: [arkivum](http://arkivum.com/) and [tind.io](https://tind.io/)
 * should researchers care?
-
+* how you can help:
+  * the [wayback machine extension](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak)
+  * the [WebRecorder](https://webrecorder.io/), a project by [Rhizome](https://rhizome.org/)
 
 #### To watch
 
