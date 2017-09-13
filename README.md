@@ -9,28 +9,28 @@ Exploring the disruptive impact of the latter on the production of scientific kn
 
 This course will take students on a digital journey which includes the management of bibliographic sources, alternative methods of writing and publication, tools for integrating writing and data analysis, etcetera. We also look into contemporary debates on preservation, data visualization, the relevance of academic debate in modern society, and what else. At all times will we be reminded of the fact that [the medium is the message](https://en.wikipedia.org/wiki/The_medium_is_the_message). Eventually -and thereby even going against Marshall McLuhan's famous dictum, we discover that what we refer to as 'man' may well be the extension of technologies and communication media, rather than the other way around. 
 
-## Sessions
+### Sessions
 
-### Session 1: [bibliographic management](https://github.com/michaelschiltz/bit-by-bit/blob/4747873b81362fcb22924903bbb61802c7ecdff9/session%2001%20-%20bibliographic%20management.md)
+#### Session 1: [bibliographic management](https://github.com/michaelschiltz/bit-by-bit/blob/4747873b81362fcb22924903bbb61802c7ecdff9/session%2001%20-%20bibliographic%20management.md)
 
-### Session 2: [more research within the browser window](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2002%20-%20more%20research%20within%20the%20browser%20window.md)
+#### Session 2: [more research within the browser window](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2002%20-%20more%20research%20within%20the%20browser%20window.md)
 
-### Session 3: [the science of search](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2003%20-%20the%20science%20of%20search.md)
+#### Session 3: [the science of search](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2003%20-%20the%20science%20of%20search.md)
 
-### Session 4: [collaborative work and reproducible research](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2004%20-%20collaborative%20work%20and%20reproducible%20research.md)
+#### Session 4: [collaborative work and reproducible research](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2004%20-%20collaborative%20work%20and%20reproducible%20research.md)
 
-### Session 5: [organizing knowledge and classification systems](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2005%20-%20organizing%20knowledge%20and%20classification%20systems.md)
+#### Session 5: [organizing knowledge and classification systems](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2005%20-%20organizing%20knowledge%20and%20classification%20systems.md)
 
-### Session 6: [about OpenAccess](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2006%20-%20about%20OpenAccess.md)
+#### Session 6: [about OpenAccess](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2006%20-%20about%20OpenAccess.md)
 
-### Session 7: [sustainable writing -publishing - preservation](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2007%20-%20sustainable%20writing%20-%20publishing%20-%20preservation.md)
+#### Session 7: [sustainable writing -publishing - preservation](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2007%20-%20sustainable%20writing%20-%20publishing%20-%20preservation.md)
 
-### Session 8: [licensing your work](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2008%20-%20licensing%20your%20work.md)
+#### Session 8: [licensing your work](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2008%20-%20licensing%20your%20work.md)
 
-### Session 9: [data and data visualization](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2009%20-%20data%20and%20data%20visualization.md)
+#### Session 9: [data and data visualization](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2009%20-%20data%20and%20data%20visualization.md)
 
-### Session 10: [big data & social network analysis](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2010%20-%20big%20data_social%20network%20analysis.md)
+#### Session 10: [big data & social network analysis](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2010%20-%20big%20data_social%20network%20analysis.md)
 
-### Session 11: [encryption - anonymity - safety -whistleblowing](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2011%20-%20encryption_anonymity_safety_whistleblowing.md)
+#### Session 11: [encryption - anonymity - safety -whistleblowing](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2011%20-%20encryption_anonymity_safety_whistleblowing.md)
 
-### Session 12: [where do we go from here?](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2012%20-%20where%20do%20we%20go%20from%20here%3F)
+#### Session 12: [where do we go from here?](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2012%20-%20where%20do%20we%20go%20from%20here%3F)
