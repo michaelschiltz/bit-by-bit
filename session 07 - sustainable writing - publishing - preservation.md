@@ -8,7 +8,7 @@
 #### Tools and Languages
 * the pros and cons of LaTex: a (tentative) [comparison with markdown](http://jabranham.com/blog/2015/09/rmarkdown-vs-latex/)
 * less is more: [Markdown](https://daringfireball.net/projects/markdown/syntax); [textile](https://github.com/textile), [BBcode](https://en.wikipedia.org/wiki/BBCode)
-* markdown editors: [Dillinger](http://dillinger.io/), [StackEdit](https://stackedit.io/)
+* markdown editors: [Dillinger](http://dillinger.io/), [StackEdit](https://stackedit.io/), [Corilla](https://corilla.com/)
 * [Sublime Text](https://www.sublimetext.com/)
 * hybrid editors: [Leanpub](https://leanpub.com/), [Caret](https://chrome.google.com/webstore/detail/caret/fljalecfjciodhpcledpamjachpmelml?hl=en) (text editor based on Sublime Text), [GitHub](https://github.com/)
 * document converter: [pandoc](http://pandoc.org/)
