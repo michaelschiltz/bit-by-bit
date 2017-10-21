@@ -7,6 +7,7 @@
 * pitfalls of popular, proprietary formats:
   * Fowler, Dan. 2017. “Excel Is Threatening the Quality of Research Data — Data Packages Are Here to Help.” February 22. http://blogs.lse.ac.uk/impactofsocialsciences/2017/02/22/excel-is-threatening-the-quality-of-research-data-data-packages-are-here-to-help/.
   * Strasser, Carly. 2015. “Introduction to Open Science: Why Data Versioning and Data Care Practices Are Key for Science and Social Science.” February 9. http://blogs.lse.ac.uk/impactofsocialsciences/2015/02/09/data-versioning-open-science/.
+  * a new player: [Coda](https://coda.io/welcome) - "we need a doc that can keep up with today’s super-collaborative world."
 
 #### Tools and packages
 * general: [Github](www.github.com)
@@ -17,7 +18,7 @@
 * [Authorea](https://www.authorea.com/) for collaborative writing
 * these days, google docs too has a nice LaTex (or more accurately, MathJax) integration: [Auto-LaTeX-equations](https://sites.google.com/site/autolatexequations/)
 * [knitr](https://yihui.name/knitr/) with R and Latex: "The <strong>knitr</strong> package was designed to be a transparent engine for dynamic report generation with R, solve some long-standing problems in Sweave, and combine features in other add-on packages into one package (<strong>knitr</strong> &asymp; Sweave + cacheSweave + pgfSweave + weaver <code>animation::saveLatex</code> + <code>R2HTML::RweaveHTML</code> + <code>highlight::HighlightWeaveLatex</code> + 0.2 * brew + 0.1 * SweaveListingUtils + more)."
-* Overleaf with [CodeOcean](https://codeocean.com/); compare this [(rather long) case-study](https://www.overleaf.com/blog/529-case-study-an-introduction-to-code-ocean-creating-and-uploading-content-into-overleaf)
+* [Overleaf](https://www.overleaf.com/) with [CodeOcean](https://codeocean.com/); compare this [(rather long) case-study](https://www.overleaf.com/blog/529-case-study-an-introduction-to-code-ocean-creating-and-uploading-content-into-overleaf)
 * comparable to the aforementioned Ctan-pages, there exists a library for R-packages, which is called [Cran](https://cran.r-project.org).
 * [Jupyter](https://jupyter.org/): "Project Jupyter is an open source project was born out of the <a href="https://ipython.org">IPython Project</a> in 2014 as it evolved to support interactive data science and scientific computing across all programming languages. Jupyter will always be 100% open source software, free for all to use and released under the liberal terms of the <a href="https://opensource.org/licenses/BSD-3-Clause">modified BSD license</a>"
 * [Stencila](https://stenci.la/): "The calls for research to be transparent and reproducible have never been louder. But today's tools for reproducible research can be intimidating - especially if you're not a coder. We're building software for reproducible research with the intuitive, visual interfaces that you and your colleagues are used to."
