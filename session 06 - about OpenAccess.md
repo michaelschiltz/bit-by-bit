@@ -5,6 +5,10 @@
 * [unpaywall](http://unpaywall.org/)
 * Creative Commons generator for [google docs](https://chrome.google.com/webstore/detail/creative-commons-license/kmahgbmiahpfjiceilbeelhemlcbkcnb?hl=en), [OpenOffice](http://extensions.openoffice.org/en/project/creative-commons-licensing)
 
+#### Good Practice:
+* push your Latex documents [from Overleaf to Figshare](https://www.overleaf.com/blog/10-publish-to-figshare-with-overleaf-formerly-writelatex) or other repositories.
+
+
 #### Open Access publishing:
 * [Scholastica](https://scholasticahq.com/): "Efficient. Affordable. Liberating. Welcome to your modern academic journal management system. Software to streamline peer review, easily publish a professional open access journal, or both."
 * [ScienceOpen](https://www.scienceopen.com/): "ScienceOpen is exploring new ways to open up information for the scholarly community. Data available on research articles are analyzed, and our analysis links articles via authors, citations, keywords, journals and more. Users can further add to the context of an article with comments, recommendations or post-publication peer reviews. Researcher-led topical collections also provide opportunities for discovery and communication."
