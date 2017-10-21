@@ -9,7 +9,14 @@ Exploring the disruptive impact of the latter on the production of scientific kn
 
 This course will take students on a digital journey which includes the management of bibliographic sources, alternative methods of writing and publication, tools for integrating writing and data analysis, etcetera. We also look into contemporary debates on preservation, data visualization, the relevance of academic debate in modern society, and what else. At all times will we be reminded of the fact that [the medium is the message](https://en.wikipedia.org/wiki/The_medium_is_the_message). Eventually -and thereby even going against Marshall McLuhan's famous dictum, we discover that what we refer to as 'man' may well be the extension of technologies and communication media, rather than the other way around. 
 
-### Sessions
+## Introductory reading(s):
+
+* Hoover, Dave, and Adewale Oshineye. 2009. *Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman*. 1 edition. Beijing ; Cambridge Mass.: O’Reilly Media.
+* **Resnick, Mitchel, and Ken Robinson. 2017. *Lifelong Kindergarten: Cultivating Creativity through Projects, Passion, Peers, and Play*. Cambridge, Massachusetts: The MIT Press.**
+* Sennett, Richard. 2009. *The Craftsman*. 1 edition. New Haven: Yale University Press.
+
+
+## Sessions
 
 #### Session 1: [bibliographic management](https://github.com/michaelschiltz/bit-by-bit/blob/4747873b81362fcb22924903bbb61802c7ecdff9/session%2001%20-%20bibliographic%20management.md)
 
