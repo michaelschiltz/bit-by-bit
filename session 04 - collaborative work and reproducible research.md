@@ -37,6 +37,7 @@ You'll love the slick user interface, extraordinary features and amazing perform
 
 
 #### Further reading
+* Aruoba, S. Borağan, and Jesús Fernández-Villaverde. 2014. “A Comparison of Programming Languages in Economics.” 20263. http://www.nber.org/papers/w20263.
 * Balbaert, Ivo. 2015. *Getting Started with Julia Programming Language*. Birmingham: Packt Publishing - ebooks Account.
 * Balbaert, Ivo, Avik Sengupta, and Malcolm Sherrington. 2016. *Julia: High Performance Programming*. 1 edition. Packt Publishing.
 * Chambers, Chris. 2017. *The Seven Deadly Sins of Psychology: A Manifesto for Reforming the Culture of Scientific Practice*. Princeton, NJ: Princeton University Press.
