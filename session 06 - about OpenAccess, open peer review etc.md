@@ -21,6 +21,11 @@
 * a [list of OCW projects](http://mashable.com/2013/08/06/opencourseware/#xTNwgLEAMPqq)
 * [Udacity](https://www.udacity.com/#)
 
+#### One step further in tansparency: open peer review (OPR)
+* Tennant, Jonathan P., Jonathan M. Dugan, Daniel Graziotin, Damien C. Jacques, François Waldner, Daniel Mietchen, Yehia Elkhatib, et al. 2017. “A Multi-Disciplinary Perspective on Emergent and Future Innovations in Peer Review.” F1000Research 6 (November):1151. https://doi.org/10.12688/f1000research.12037.2.
+* note: a prehistory of OPR in disciplinary repositories: [Arxiv](https://arxiv.org/) (e.g. through [SciRate](https://scirate.com/))
+    * Boldt, Axel. 2010. “Extending ArXiv.Org to Achieve Open Peer Review and Publishing.” ArXiv:1011.6590 [Cs], November. http://arxiv.org/abs/1011.6590.
+
 #### To watch
 * The Berkman Klein Center for Internet & Society. 2017. Book Talk: Peter Suber on Open Access. Accessed April 27. https://www.youtube.com/watch?v=3nWuF7ZVG0w.
 
