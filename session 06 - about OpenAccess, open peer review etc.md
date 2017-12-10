@@ -30,6 +30,7 @@
     * fake
     * plagiarism
     * abuse of inside information by reviewers
+    * Ferguson, Cat, Adam Marcus, and Ivan Oransky. 2014. “Publishing: The Peer-Review Scam.” *Nature News* 515 (7528):480. https://doi.org/10.1038/515480a.
 * Why now? Reflections on the impact of the digital revolution on key aspects of the scientific system ('authorship' and authority', the role of gatekeeping,...)
 
 #### To watch
