@@ -12,6 +12,7 @@
 #### Open Access publishing:
 * [Scholastica](https://scholasticahq.com/): "Efficient. Affordable. Liberating. Welcome to your modern academic journal management system. Software to streamline peer review, easily publish a professional open access journal, or both."
 * [ScienceOpen](https://www.scienceopen.com/): "ScienceOpen is exploring new ways to open up information for the scholarly community. Data available on research articles are analyzed, and our analysis links articles via authors, citations, keywords, journals and more. Users can further add to the context of an article with comments, recommendations or post-publication peer reviews. Researcher-led topical collections also provide opportunities for discovery and communication."
+* [f1000research](https://f1000research.com/): *F1000Research* is an Open Research publishing platform for life scientists, offering immediate publication of articles and other research outputs without editorial bias. All articles benefit from transparent refereeing and the inclusion of all source data.
 
 #### OA-databases
 * The [Directory of Open Access Journals (DOAJ)](https://doaj.org/)
@@ -22,13 +23,15 @@
 * [Udacity](https://www.udacity.com/#)
 
 #### One step further in tansparency: open peer review (OPR)
-* Tennant, Jonathan P., Jonathan M. Dugan, Daniel Graziotin, Damien C. Jacques, François Waldner, Daniel Mietchen, Yehia Elkhatib, et al. 2017. “A Multi-Disciplinary Perspective on Emergent and Future Innovations in Peer Review.” F1000Research 6 (November):1151. https://doi.org/10.12688/f1000research.12037.2.
+* Tennant, Jonathan P., Jonathan M. Dugan, Daniel Graziotin, Damien C. Jacques, François Waldner, Daniel Mietchen, Yehia Elkhatib, et al. 2017. “A Multi-Disciplinary Perspective on Emergent and Future Innovations in Peer Review.” *F1000Research* 6 (November):1151. https://doi.org/10.12688/f1000research.12037.2.
 * note: a prehistory of OPR in disciplinary repositories: [Arxiv](https://arxiv.org/) (e.g. through [SciRate](https://scirate.com/))
     * Boldt, Axel. 2010. “Extending ArXiv.Org to Achieve Open Peer Review and Publishing.” ArXiv:1011.6590 [Cs], November. http://arxiv.org/abs/1011.6590.
 * Pitfalls of the current system:
     * fake
     * plagiarism
     * abuse of inside information by reviewers
+* Why now? Reflections on the impact of the digital revolution on key aspects of the scientific system ('authorship' and authority', the role of gatekeeping,...)
+
 #### To watch
 * The Berkman Klein Center for Internet & Society. 2017. Book Talk: Peter Suber on Open Access. Accessed April 27. https://www.youtube.com/watch?v=3nWuF7ZVG0w.
 
