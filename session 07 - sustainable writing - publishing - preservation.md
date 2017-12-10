@@ -23,6 +23,8 @@
  * what is an 'exit-strategy' for digital archives?
 * markdown and [digital preservation](https://publish.illinois.edu/commonsknowledge/2016/12/01/digital-preservation-and-the-power-of-markdown/), including for [documenting your own research](http://programminghistorian.org/lessons/preserving-your-research-data)
 * professional digital preservation services: [arkivum](http://arkivum.com/) and [tind.io](https://tind.io/)
+* digital preservation and 'site reliability engineering' (SRE)
+  * Beyer, Betsy, Chris Jones, Jennifer Petoff, and Niall Richard Murphy, eds. 2016. *Site Reliability Engineering: How Google Runs Production Systems*. 1 edition. Sebastopol, CA: O’Reilly Media.
 * should researchers care?
 * how you can help:
   * the [wayback machine extension](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak)
