@@ -12,7 +12,7 @@
 #### Open Access publishing:
 * [Scholastica](https://scholasticahq.com/): "Efficient. Affordable. Liberating. Welcome to your modern academic journal management system. Software to streamline peer review, easily publish a professional open access journal, or both."
 * [ScienceOpen](https://www.scienceopen.com/): "ScienceOpen is exploring new ways to open up information for the scholarly community. Data available on research articles are analyzed, and our analysis links articles via authors, citations, keywords, journals and more. Users can further add to the context of an article with comments, recommendations or post-publication peer reviews. Researcher-led topical collections also provide opportunities for discovery and communication."
-* [f1000research](https://f1000research.com/): *F1000Research* is an Open Research publishing platform for life scientists, offering immediate publication of articles and other research outputs without editorial bias. All articles benefit from transparent refereeing and the inclusion of all source data.
+* [f1000research](https://f1000research.com/): "*F1000Research* is an Open Research publishing platform for life scientists, offering immediate publication of articles and other research outputs without editorial bias. All articles benefit from transparent refereeing and the inclusion of all source data."
 
 #### OA-databases
 * The [Directory of Open Access Journals (DOAJ)](https://doaj.org/)
