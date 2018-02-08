@@ -6,6 +6,8 @@
 * on the researcher-level: how to guarantee the readability of publications in the future, including in the very long run? Will complex mark-up (html, xml) still be comprehensible, if not to machines, then [to the human eye](https://daringfireball.net/projects/markdown/syntax#philosophy)?
  
 #### Tools and Languages
+* the traditional workhorse for writing and editing: Latex
+  * [the many flavours of Tex](https://www.overleaf.com/blog/500-whats-in-a-name-a-guide-to-the-many-flavours-of-tex#.WnwrBEAHJOc.twitter): Tex, LaTeX, pdfTex, XeLatex, LuaTex, ConText.
 * the pros and cons of LaTex: a (tentative) [comparison with markdown](http://jabranham.com/blog/2015/09/rmarkdown-vs-latex/)
 * less is more: [Markdown](https://daringfireball.net/projects/markdown/syntax); [textile](https://github.com/textile), [BBcode](https://en.wikipedia.org/wiki/BBCode)
 * markdown editors: [Dillinger](http://dillinger.io/), [StackEdit](https://stackedit.io/), [Corilla](https://corilla.com/)
