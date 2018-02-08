@@ -38,6 +38,6 @@ This course will take students on a digital journey which includes the managemen
 
 #### Session 10: [big data & social network analysis](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2010%20-%20big%20data_social%20network%20analysis.md)
 
-#### Session 11: [encryption - anonymity - safety -whistleblowing](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2011%20-%20encryption_anonymity_safety_whistleblowing.md)
+#### Session 11: [encryption - anonymity - safety - whistleblowing](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2011%20-%20encryption_anonymity_safety_whistleblowing.md)
 
 #### Session 12: [where do we go from here?](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2012%20-%20where%20do%20we%20go%20from%20here%3F)
