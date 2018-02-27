@@ -23,6 +23,7 @@ This session discusses ways of doing research from within the browser window
 * [google drive](https://drive.google.com/)
 * [dropbox](https://www.dropbox.com/)
 * [spideroak](https://spideroak.com/)
+* [owncloud](https://owncloud.org/)
 * [backupify](https://www.backupify.com/)
 * [spanning](https://spanning.com/)
 * [backhub](https://backhub.co/)
