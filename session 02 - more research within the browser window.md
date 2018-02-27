@@ -17,10 +17,10 @@ This session discusses ways of doing research from within the browser window
 * the pros and (mostly) [cons](http://blogs.discovermagazine.com/crux/2017/02/01/who-isnt-profiting-off-the-backs-of-researchers/) of [researchgate](https://www.researchgate.net/) and [academia](https://www.academia.edu/) 
 
 #### Syncing and back-up services: 
-* [Dropbox](www.dropbox.com), 
+* [dropbox](www.dropbox.com), 
 * Box, 
-* [Google Drive](drive.google.com); 
-* [Backupify](www.backupify.com) and 
+* [google drive](drive.google.com); 
+* [backupify](www.backupify.com) and 
 * ~~~Spanning~~~ (support for individual accounts terminated on July 1 2017)
 
 #### Encryption and security: 
