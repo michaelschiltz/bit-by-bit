@@ -33,5 +33,5 @@ This session discusses ways of doing research from within the browser window
 [CloudHQ](https://www.cloudhq.net/)
 
 #### Mash-up applications: Make the WorldWideWeb work for you
-* [IFTTT](https://ifttt.com), [Zapier](https://zapier.com/), [huginn](https://github.com/huginn/huginn)
+* [IFTTT](https://ifttt.com), [Zapier](https://zapier.com/), [pushbullet](https://www.pushbullet.com/), [huginn](https://github.com/huginn/huginn)
 * now defunct: [yahoo pipes](https://en.wikipedia.org/wiki/Yahoo!_Pipes)
