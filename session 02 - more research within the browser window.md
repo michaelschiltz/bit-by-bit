@@ -26,7 +26,6 @@ This session discusses ways of doing research from within the browser window
 * [backupify](https://www.backupify.com/)
 * [spanning](https://spanning.com/)
 * [backhub](https://backhub.co/)
-
 * [magnetic tape](https://apps.sciencefriday.com/data/ghosts.html) is key!
 
 #### possibilities for cross-platform back-up:
