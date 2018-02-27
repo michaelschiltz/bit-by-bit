@@ -16,15 +16,14 @@ This session discusses ways of doing research from within the browser window
 * [delicious](https://del.icio.us/); [diigo.com](https://www.diigo.com/index)
 * the pros and (mostly) [cons](http://blogs.discovermagazine.com/crux/2017/02/01/who-isnt-profiting-off-the-backs-of-researchers/) of [researchgate](https://www.researchgate.net/) and [academia](https://www.academia.edu/) 
 
-#### Syncing and back-up services: 
-* [dropbox](www.dropbox.com), 
-* Box, 
-* [google drive](drive.google.com); 
-* [backupify](www.backupify.com) and 
-* ~~~Spanning~~~ (support for individual accounts terminated on July 1 2017)
-
 #### Encryption and security: 
 [https everywhere](https://www.eff.org/https-everywhere), [privacy badger](https://www.eff.org/privacybadger)
+
+#### Syncing and back-up services:
+* [google drive](https://drive.google.com/)
+* [dropbox](https://www.dropbox.com/)
+* [backupify](https://www.backupify.com/)
+* [backhub](https://backhub.co/)
 
 #### possibilities for cross-platform back-up:
 [CloudHQ](https://www.cloudhq.net/)
