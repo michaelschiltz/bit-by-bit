@@ -22,6 +22,7 @@ This session discusses ways of doing research from within the browser window
 #### Syncing and back-up services:
 * [google drive](https://drive.google.com/)
 * [dropbox](https://www.dropbox.com/)
+* [spideroak](https://spideroak.com/)
 * [backupify](https://www.backupify.com/)
 * [backhub](https://backhub.co/)
 
