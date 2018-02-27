@@ -24,6 +24,7 @@ This session discusses ways of doing research from within the browser window
 * [dropbox](https://www.dropbox.com/)
 * [spideroak](https://spideroak.com/)
 * [backupify](https://www.backupify.com/)
+* [spanning](https://spanning.com/)
 * [backhub](https://backhub.co/)
 
 #### possibilities for cross-platform back-up:
