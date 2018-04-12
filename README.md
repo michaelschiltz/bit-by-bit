@@ -28,7 +28,7 @@ This course will take students on a digital journey which includes the managemen
 
 #### Session 5: [organizing knowledge and classification systems](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2005%20-%20organizing%20knowledge%20and%20classification%20systems.md)
 
-#### Session 6: [about OpenAccess](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2006%20-%20about%20OpenAccess.md)
+#### Session 6: [about OpenAccess](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2006%20-%20about%20OpenAccess%2C%20open%20peer%20review%20etc.md)
 
 #### Session 7: [sustainable writing -publishing - preservation](https://github.com/michaelschiltz/bit-by-bit/blob/master/session%2007%20-%20sustainable%20writing%20-%20publishing%20-%20preservation.md)
 
