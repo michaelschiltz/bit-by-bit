@@ -44,5 +44,6 @@ You'll love the slick user interface, extraordinary features and amazing perform
 * Colquhoun, David. 2017. “The Reproducibility Of Research And The Misinterpretation Of P Values.” bioRxiv, June, 144337. doi:10.1101/144337.
 * Gandrud, Christopher. 2015. *Reproducible Research with R and R Studio*, Second Edition. 2 edition. Boca Raton: Chapman and Hall/CRC.
 * Kitzes, Justin, Daniel Turek, and Fatma Deniz, eds. 2017. *The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences*. University of California Press.
+* Somers, James. 2018. “The Scientific Paper Is Obsolete.” *The Atlantic*, April 5, 2018. https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/.
 * Stodden, Victoria, Friedrich Leisch, and Roger D. Peng, eds. 2014. *Implementing Reproducible Research*. Boca Raton: Chapman and Hall/CRC.
 * Xie, Yihui. 2015. *Dynamic Documents with R and Knitr*, Second Edition. 2 edition. Boca Raton: Chapman and Hall/CRC.
