@@ -13,7 +13,7 @@
 * markdown editors: [Dillinger](http://dillinger.io/), [StackEdit](https://stackedit.io/), [Corilla](https://corilla.com/)
 * [Sublime Text](https://www.sublimetext.com/)
 * hybrid editors: [Leanpub](https://leanpub.com/), [Caret](https://chrome.google.com/webstore/detail/caret/fljalecfjciodhpcledpamjachpmelml?hl=en) (text editor based on Sublime Text), [GitHub](https://github.com/)
-* [Grahitedocs](https://www.graphitedocs.com/), an editor on blockchain technology
+* [Graphitedocs](https://www.graphitedocs.com/), an editor on blockchain technology
 * document converter: [pandoc](http://pandoc.org/)
 * [GitBook](https://www.gitbook.com/)
 
