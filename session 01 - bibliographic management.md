@@ -10,7 +10,7 @@ alternatives: [students are encouraged to compare alternative software packages 
 
 #### Related: the pros and cons of clandestine libraries or the 'Guerilla Open Access movement'...
 * knowledge is now freely available, including to poorly financed institutions
-* however, to what degree is this a sustainable solution to the crisis of scholarly publishing
+* however, to what degree is this a sustainable solution to the crisis of scholarly publishing?
 
 #### ...and the case for openness:
 * [Paywall the Movie: The Business of Scholarship](http://paywallthemovie.com/)
