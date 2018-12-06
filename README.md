@@ -49,7 +49,8 @@ Students are expected to:
 1. participate in the course as a whole: doing the essential reading for each week’s topic, and coming prepared to question and intervene.
 2. provide written and oral comments;
 3. research, write, present, and defend your argument and choice of topic to be discussed.
-4. When presenting, students should go beyond the narrow content of the reading to be presented; develop an argument as a coherent whole, e.g. by focusing on theoretical issues (e.g. the relationship between (political) power and violence, methodological ones (for instance the nature of the relationship between ‘ideas’ and the material/technological/… contexts in which they are shaped)
+4. When presenting, students should go beyond the narrow content of the reading to be presented; develop an argument as a coherent whole, e.g. by focusing on theoretical issues (e.g. the relationship between (political) power and violence, methodological ones (for instance the nature of the relationship between ‘ideas’ and the material/technological/… contexts in which they are shaped), and...
+5. **...most importantly, to bring their laptop into class!**
 
 #### How to read?
 
