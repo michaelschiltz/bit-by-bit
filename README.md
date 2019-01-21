@@ -65,4 +65,6 @@ Although all grading is characterized by an inherent opacity (if only for the si
 2. students making elaborate presentations (including audiovisual material, links to primary sources etc.) will be rewarded for the extra effort
 3. showing that you mastered the readings by partaking actively in the discussions is a plus.
 
-As this class is an example of [problem-based learning](https://en.wikipedia.org/wiki/Problem-based_learning) and the ['flipped classroom'](https://en.wikipedia.org/wiki/Flipped_classroom), the class strongly encourages and rewards participation; vice versa, it penalizes a passive or absent behavior.
+As this class is an example of [problem-based learning](https://en.wikipedia.org/wiki/Problem-based_learning) and the ['flipped classroom'](https://en.wikipedia.org/wiki/Flipped_classroom), it **strongly encourages and rewards participation**; vice versa, **it penalizes a passive or absent behavior**. Concretely, 80 percent of your grade is based on class discussion; the remaining 20 percent is reserved for presentations.
+
+**Some basic rules: whereas attendance is considered crucial, merely being present in class is insufficient to pass. Active participation is prerequisite. Checking social media or constantly looking at your phone during class is discourageing and even disturbing for your peers, so should be avoided. This class demands a considerable degree of commitment; do not take this class if you are not motivated.**
