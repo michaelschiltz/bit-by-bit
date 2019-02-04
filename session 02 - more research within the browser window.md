@@ -17,7 +17,8 @@ This session discusses ways of doing research from within the browser window
 * the pros and (mostly) [cons](http://blogs.discovermagazine.com/crux/2017/02/01/who-isnt-profiting-off-the-backs-of-researchers/) of [researchgate](https://www.researchgate.net/) and [academia](https://www.academia.edu/) 
 
 #### Encryption and security: 
-[https everywhere](https://www.eff.org/https-everywhere), [privacy badger](https://www.eff.org/privacybadger)
+* [https everywhere](https://www.eff.org/https-everywhere), [privacy badger](https://www.eff.org/privacybadger), [panopticlick](https://panopticlick.eff.org/)
+* [have your passwords been exposed in a data breach](https://haveibeenpwned.com/)?
 
 #### Syncing and back-up services:
 * [google drive](https://drive.google.com/)
