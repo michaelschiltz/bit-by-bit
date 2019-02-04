@@ -1,6 +1,6 @@
 #### Introduction
 * Google and [Google Syntax](https://support.google.com/websearch/answer/2466433?hl=en)
-* Services relevant for academics: Google Books, [Google Scholar](https://scholar.google.com/) (personalize your Google Scholar profile!),
+* Services relevant for academics: Google Books, [Google Scholar](https://scholar.google.com/) (personalize your Google Scholar profile!), google [dataset search](https://toolbox.google.com/datasetsearch)
 * [Google Scholar button](https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn?hl=en) 
 * privacy matters: google history
 
@@ -22,6 +22,7 @@
 
 
 #### To watch:
+
 
 #### Further reading
 * Battelle, John. 2005. *The Search: How Google and Its Rivals Rewrote the Rules of Business and Transformed Our Culture*. Portfolio.
