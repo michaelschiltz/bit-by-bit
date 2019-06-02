@@ -6,6 +6,7 @@
 * mindmapping and workflow tools
   * [coggle](https://coggle.it/)
   * [draw.io](https://www.draw.io/)
+  * [gliffy](https://www.gliffy.com/)
   * [lucidchart](https://www.lucidchart.com/)
   * [desmos](https://www.desmos.com/)
 * looking forward to data visualization
