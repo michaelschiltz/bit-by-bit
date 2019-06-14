@@ -2,7 +2,7 @@
 
 #### Tools
 * Zotero [Timeline](https://www.zotero.org/support/timelines)
-* [Evernote](https://evernote.com/)
+* [Evernote](https://evernote.com/) and a newcomer: [notion](https://www.notion.so/)
 * mindmapping and workflow tools
   * [coggle](https://coggle.it/)
   * [draw.io](https://www.draw.io/)
