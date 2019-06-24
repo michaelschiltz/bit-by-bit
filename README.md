@@ -12,7 +12,7 @@ This course will take students on a digital journey which includes the managemen
 ## Introductory reading(s):
 
 * Hoover, Dave, and Adewale Oshineye. 2009. *Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman*. 1 edition. Beijing ; Cambridge Mass.: O’Reilly Media.
-* **Resnick, Mitchel, and Ken Robinson. 2017. *Lifelong Kindergarten: Cultivating Creativity through Projects, Passion, Peers, and Play*. Cambridge, Massachusetts: The MIT Press.**
+* **Resnick, Mitchel, and Ken Robinson. 2017. *[Lifelong Kindergarten](http://lifelongkindergarten.net/): Cultivating Creativity through Projects, Passion, Peers, and Play*. Cambridge, Massachusetts: The MIT Press.**
 * Sennett, Richard. 2009. *The Craftsman*. 1 edition. New Haven: Yale University Press.
 
 
