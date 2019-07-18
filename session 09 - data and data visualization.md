@@ -13,7 +13,7 @@
   * integration with [Overleaf](https://www.overleaf.com/blog/201-reproducible-and-collaborative-data-science-overleaf-links-with-plotly)
 * [D3JS](https://d3js.org/): a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS.
   * a [list of tutorials](https://github.com/d3/d3/wiki/Tutorials)
-* [Rawgraphs.io](http://rawgraphs.io/): 
+* [Rawgraphs.io](http://rawgraphs.io/): "RAW Graphs is an open source data visualization framework built with the goal of making the visual representation of complex data easy for everyone. Primarily conceived as a tool for designers and vis geeks, RAW Graphs aims at providing a missing link between spreadsheet applications (e.g. Microsoft Excel, Apple Numbers, OpenRefine) and vector graphics editors (e.g. Adobe Illustrator, Inkscape, Sketch)."
 
 * [R or Python for data analysis?](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis#gs.==1Rk0g)
   * [R for Data Science](http://r4ds.had.co.nz/)
