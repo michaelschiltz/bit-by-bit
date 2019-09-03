@@ -68,3 +68,14 @@ Although all grading is characterized by an inherent opacity (if only for the si
 As this class is an example of [problem-based learning](https://en.wikipedia.org/wiki/Problem-based_learning) and the ['flipped classroom'](https://en.wikipedia.org/wiki/Flipped_classroom), it **strongly encourages and rewards participation**; vice versa, **it penalizes a passive or absent behavior**. Concretely, 80 percent of your grade is based on class discussion; the remaining 20 percent is reserved for presentations.
 
 **Some basic rules: whereas attendance is considered crucial, merely being present in class is insufficient to pass. Active participation is prerequisite. Checking social media or constantly looking at your phone during class is discourageing and even disturbing for your peers, so should be avoided. This class demands a considerable degree of commitment; do not take this class if you are not motivated.**
+
+#### What are the necessary elements of a presentation?
+
+* a **clear outline of what you intend to discuss**
+* indications of what you found difficult to understand
+* if needed, a demonstration of a software tool, service, browser and/or browser extensiob, and so on.
+* an indication of the limits of the technology, be it in terms of licensing, functionality, etc.
+* when using illustrations and or citations, provide the necessary references.
+* it is better to be exhaustive rather than being too concise
+
+**!!The schedule of the presentations will be decided in one of the first sessions; students are required to meet with the professor one week before doing the presentation, and will receive feedback.**
