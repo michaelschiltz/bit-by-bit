@@ -73,7 +73,7 @@ As this class is an example of [problem-based learning](https://en.wikipedia.org
 
 * a **clear outline of what you intend to discuss**
 * indications of what you found difficult to understand
-* if needed, a demonstration of a software tool, service, browser and/or browser extensiob, and so on.
+* if needed, a demonstration of a software tool, service, browser and/or browser extension(s), and so on.
 * an indication of the limits of the technology, be it in terms of licensing, functionality, etc.
 * when using illustrations and or citations, provide the necessary references.
 * it is better to be exhaustive rather than being too concise
