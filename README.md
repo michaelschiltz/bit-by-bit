@@ -64,6 +64,8 @@ Although all grading is characterized by an inherent opacity (if only for the si
 1. students presenting on several occasions will receive a higher grade
 2. students making elaborate presentations (including audiovisual material, links to primary sources etc.) will be rewarded for the extra effort
 3. showing that you mastered the readings by partaking actively in the discussions is a plus.
+4. if you want to have an idea of where I have gotten the inspiration for this teaching paradigm, check the [following ideas by Jesse Stommel](https://www.jessestommel.com/ungrading-a-bibliography/).
+
 
 As this class is an example of [problem-based learning](https://en.wikipedia.org/wiki/Problem-based_learning) and the ['flipped classroom'](https://en.wikipedia.org/wiki/Flipped_classroom), it **strongly encourages and rewards participation**; vice versa, **it penalizes a passive or absent behavior**. Concretely, 80 percent of your grade is based on class discussion; the remaining 20 percent is reserved for presentations.
 
