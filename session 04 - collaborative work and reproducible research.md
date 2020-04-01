@@ -18,6 +18,7 @@
 * **collaborative writing**: 
   * [Overleaf](https://www.overleaf.com/), [ShareLatex](https://www.sharelatex.com/); also, note the existence of the [ctan](https://www.ctan.org/)-pages, a library for packages you may need to install when using LaTex. 
   * [Authorea](https://www.authorea.com/) for collaborative writing
+  * [Fidus Writer](https://www.fiduswriter.org/) and [Manuscripts.io](https://www.manuscripts.io/about/) 
   * these days, google docs too has a nice LaTex (or more accurately, MathJax) integration: [Auto-LaTeX-equations](https://sites.google.com/site/autolatexequations/)
   * [knitr](https://yihui.name/knitr/) with R and Latex: "The <strong>knitr</strong> package was designed to be a transparent engine for dynamic report generation with R, solve some long-standing problems in Sweave, and combine features in other add-on packages into one package (<strong>knitr</strong> &asymp; Sweave + cacheSweave + pgfSweave + weaver <code>animation::saveLatex</code> + <code>R2HTML::RweaveHTML</code> + <code>highlight::HighlightWeaveLatex</code> + 0.2 * brew + 0.1 * SweaveListingUtils + more)."
   * [Overleaf](https://www.overleaf.com/) with [CodeOcean](https://codeocean.com/); compare this [(rather long) case-study](https://www.overleaf.com/blog/529-case-study-an-introduction-to-code-ocean-creating-and-uploading-content-into-overleaf)
