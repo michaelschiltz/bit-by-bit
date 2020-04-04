@@ -8,6 +8,7 @@
 #### Tools and Languages
 * the traditional workhorse for writing and editing: Latex
   * [the many flavours of Tex](https://www.overleaf.com/blog/500-whats-in-a-name-a-guide-to-the-many-flavours-of-tex#.WnwrBEAHJOc.twitter): Tex, LaTeX, pdfTex, [XeLatex](https://en.wikipedia.org/wiki/XeTeX) (XeTex)), [LuaTex](https://en.wikipedia.org/wiki/LuaTeX), [ConText](https://en.wikipedia.org/wiki/ConTeXt).
+  * you will love the [Bates" Latex Manual](https://www.bates.edu/mathematics/resources/latex-manual/)
 * the pros and cons of LaTex: a (tentative) [comparison with markdown](http://jabranham.com/blog/2015/09/rmarkdown-vs-latex/)
 * less is more: [Markdown](https://daringfireball.net/projects/markdown/syntax); [textile](https://github.com/textile), [BBcode](https://en.wikipedia.org/wiki/BBCode)
 * markdown editors: [Dillinger](http://dillinger.io/), [StackEdit](https://stackedit.io/), [Corilla](https://corilla.com/)
