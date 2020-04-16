@@ -4,12 +4,14 @@
 * Zotero [Timeline](https://www.zotero.org/support/timelines)
 * [Evernote](https://evernote.com/) and a newcomer: [notion](https://www.notion.so/)
 * mindmapping and workflow tools
+  * [Cacoo](https://cacoo.com)
   * [coggle](https://coggle.it/)
   * [draw.io](https://www.draw.io/)
   * [gliffy](https://www.gliffy.com/)
   * [lucidchart](https://www.lucidchart.com/)
   * [desmos](https://www.desmos.com/)
 * looking forward to data visualization
+  * mapping the hierarchy of twitter threads: [Treeverse](https://treeverse.app/)
   * mapping social software networks by means of metadata: [tweepsmap](https://tweepsmap.com/), [mentionmapp](http://mentionmapp.com/), and the visualization tool [Immersion](https://immersion.media.mit.edu/), developed by MIT MediaLab.
 
 #### Folksonomies and Tagging: 
