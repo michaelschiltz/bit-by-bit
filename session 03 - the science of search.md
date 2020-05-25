@@ -19,6 +19,7 @@
   * [DuckduckGo](https://duckduckgo.com/), 
   * the Opera-browser’s [built-in VPN](https://www.opera.com/blogs/desktop/2016/04/free-vpn-integrated-opera-for-windows-mac/), and a cute little [hack](http://archiv.twoday.net/stories/11553592/) for accessing the Hathitrust collections
   * looking forward to [Tor](https://www.torproject.org/projects/torbrowser.html.en) and the [Internet Defense League](https://www.internetdefenseleague.org/)
+  * the [Brave-browser](https://brave.com/)
 
 
 #### To watch:
