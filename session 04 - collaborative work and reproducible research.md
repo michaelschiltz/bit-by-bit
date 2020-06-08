@@ -10,7 +10,7 @@
   * a new player: [Coda](https://coda.io/welcome) - "we need a doc that can keep up with today’s super-collaborative world."
 
 #### Tools and packages
-* **general: [Github](www.github.com)**
+* **general: [Github](https://www.github.com)**
   * Perkel, Jeffrey. 2016. “Democratic Databases: Science on GitHub.” *Nature News* 538 (7623): 127. doi:10.1038/538127a.
   * [Why we need a GitHub for science](http://www.slate.com/articles/technology/future_tense/2017/04/we_need_a_github_for_academic_research.html)
   * and [why don't you try it out yourself](https://try.github.io/)?
