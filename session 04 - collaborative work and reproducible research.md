@@ -49,6 +49,7 @@ You'll love the slick user interface, extraordinary features and amazing perform
 * Balbaert, Ivo, Avik Sengupta, and Malcolm Sherrington. 2016. *Julia: High Performance Programming*. 1 edition. Packt Publishing.
 * Chambers, Chris. 2017. *The Seven Deadly Sins of Psychology: A Manifesto for Reforming the Culture of Scientific Practice*. Princeton, NJ: Princeton University Press.
 * Colquhoun, David. 2017. “The Reproducibility Of Research And The Misinterpretation Of P Values.” bioRxiv, June, 144337. doi:10.1101/144337.
+* Colquhoun, David. 2016. “It’s Time for Science to Abandon the Term ‘Statistically Significant’ – David Colquhoun | Aeon Essays.” Aeon. Accessed June 22, 2020. https://aeon.co/essays/it-s-time-for-science-to-abandon-the-term-statistically-significant.
 * Gandrud, Christopher. 2015. *Reproducible Research with R and R Studio*, Second Edition. 2 edition. Boca Raton: Chapman and Hall/CRC.
 * Kitzes, Justin, Daniel Turek, and Fatma Deniz, eds. 2017. *The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences*. University of California Press.
 * Rule, Adam, Amanda Birmingham, Cristal Zuniga, Ilkay Altintas, Shih-Cheng Huang, Rob Knight, Niema Moshiri, et al. 2019. “Ten Simple Rules for Writing and Sharing Computational Analyses in Jupyter Notebooks.” *PLOS Computational Biology* 15 (7): e1007007. https://doi.org/10.1371/journal.pcbi.1007007.
