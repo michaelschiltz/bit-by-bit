@@ -2,7 +2,7 @@
 
 #### Tools: plug-ins, browsers, operating systems, and else
 * plug-ins
-  * [privacy badger](https://www.eff.org/privacybadger); also test on [panopticlick](https://panopticlick.eff.org/), both from the nice people at the [Electronic Frontier Foundation](https://www.eff.org/)
+  * [privacy badger](https://www.eff.org/privacybadger); also test on [panopticlick](https://panopticlick.eff.org/), both from the nice people at the [Electronic Frontier Foundation](https://www.eff.org/); [blacklight](https://themarkup.org/blacklight) is another, more recent service for testing the reliability of websites.
   * [https everywhere](https://www.eff.org/https-everywhere)
   * adblockers
   * [duckduckgo for chrome](https://chrome.google.com/webstore/detail/duckduckgo-for-chrome/bkdgflcldnnnapblkhphbgpggdiikppg?hl=en)
