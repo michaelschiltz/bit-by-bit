@@ -14,7 +14,7 @@ This session discusses ways of doing research from within the browser window
 * [unpaywall](http://unpaywall.org/), 
 * [canaryhaz](https://www.canaryhaz.com/), 
 * [scite](https://chrome.google.com/webstore/detail/scite/homifejhmckachdikhkgomachelakohh)
-* [conntectedpapers](https://www.connectedpapers.com/)
+* [connectedpapers](https://www.connectedpapers.com/)
 
 #### Social bookmarking for academics: 
 * [delicious](https://del.icio.us/); [diigo.com](https://www.diigo.com/index)
