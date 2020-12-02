@@ -13,7 +13,7 @@
 * looking forward to data visualization
   * mapping the hierarchy of twitter threads: [Treeverse](https://treeverse.app/)
   * mapping social software networks by means of metadata: [tweepsmap](https://tweepsmap.com/), [mentionmapp](http://mentionmapp.com/), and the visualization tool [Immersion](https://immersion.media.mit.edu/), developed by MIT MediaLab.
-  " Nowadays, there exists a tool for mapping the 'connectedness' od a scientific paper in a graph: [Connected Paper](https://www.connectedpapers.com/)
+  " Nowadays, there exists a tool for mapping the 'connectedness' of a scientific paper in a graph: [Connected Paper](https://www.connectedpapers.com/)
 
 #### Folksonomies and Tagging: 
 * very common in contemporary research practice: Zotero, Diigo, [LibraryThing](https://www.librarything.com/)
