@@ -17,9 +17,17 @@ alternatives: [students are encouraged to compare alternative software packages 
 * [Paywall the Movie: The Business of Scholarship](http://paywallthemovie.com/)
 
 #### Alternative access to research papers:
+
 * [OpenAccessButton](https://openaccessbutton.org/)
 * [unpaywall](http://unpaywall.org/)
 * formerly ~~[Canary Haz](https://canaryhaz.com/)~~, since August 2017 [Kopernio](https://kopernio.com/) 
+
+
+#### The Guerilla open-access movement and its role in defining the landscape of scholarly publishing
+
+* [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub)
+* [Libgen](https://en.wikipedia.org/wiki/Library_Genesis)
+* a sneaky browser extension: [Hover](https://github.com/hover-inc/hover-paywalls-browser-extension)
 
 
 #### Further reading
