@@ -25,7 +25,7 @@ alternatives: [students are encouraged to compare alternative software packages 
 
 #### The Guerilla open-access movement and its role in defining the landscape of scholarly publishing
 
-* [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub)
+* [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub) and the [Sci-Hub Telegram bot](https://sci-hub.41610.org/sci-hub-telegram-bot)
 * [Libgen](https://en.wikipedia.org/wiki/Library_Genesis)
 * a sneaky browser extension: [Hover](https://github.com/hover-inc/hover-paywalls-browser-extension)
 
