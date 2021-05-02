@@ -7,6 +7,8 @@
   * adblockers
   * [duckduckgo for chrome](https://chrome.google.com/webstore/detail/duckduckgo-for-chrome/bkdgflcldnnnapblkhphbgpggdiikppg?hl=en)
 * browsers / search engines
+  * [Brave-browser](https://brave.com/): 
+     * "Browse 3x faster than Chrome"
   * [duckduckgo](https://duckduckgo.com/)
   * the gold standard: [Tor](https://www.torproject.org/)
 * operating systems
