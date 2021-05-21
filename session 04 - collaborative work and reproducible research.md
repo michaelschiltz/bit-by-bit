@@ -12,7 +12,7 @@
 
 #### Tools and packages
 * **general: [Github](https://www.github.com)**
-  * Perkel, Jeffrey. 2016. “Democratic Databases: Science on GitHub.” *Nature News* 538 (7623): 127. doi:10.1038/538127a.
+  * Perkel, Jeffrey. 2016. “[Democratic Databases: Science on GitHub.](https://www.nature.com/news/democratic-databases-science-on-github-1.20719)” *Nature News*  538 (7623): 127.
   * [Why we need a GitHub for science](http://www.slate.com/articles/technology/future_tense/2017/04/we_need_a_github_for_academic_research.html)
   * and [why don't you try it out yourself](https://try.github.io/)?
 
