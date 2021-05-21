@@ -29,6 +29,7 @@
   * [Julia](https://julialang.org/) and [Weave.jl](https://github.com/mpastell/Weave.jl): is this the 'dynamic documents' of the (immediate) future?
   * [Sublime Text](https://www.sublimetext.com/): "Sublime Text is a sophisticated text editor for code, markup and prose. Sublimetext has [Zotero-support](http://ww1.latexing.com/).
 You'll love the slick user interface, extraordinary features and amazing performance."; for chromebook users, see [Caret](http://thomaswilburn.net/caret/) and [Zed](http://zedapp.org/).
+  * I am a fan of [Atom](https://atom.io/), developed by the good people at GitHub.
 
 * **data sharing**: [figshare](https://figshare.com/), [zenodo](https://www.zenodo.org/), and [Dryad](https://datadryad.org/); [OpenAire](https://www.openaire.eu/), and Harvard's [DataVerse](https://dataverse.org/)-project
   * as an important player, [Nature has started to take the reproducibility very seriously](https://www.nature.com/news/announcement-towards-greater-reproducibility-for-life-sciences-research-in-nature-1.22062?WT.mc_id=TWT_NatureNews&sf84509261=1).
