@@ -1,15 +1,15 @@
-### Collaboration and openness as a paradigm
+### Collaboration and openness as a paradigm; the threat of fraudulent science
 * [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_Law): "Given enough eyeballs, all bugs are shallow"; and [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/).
 * `open source` and `open access`
 * [crowdsourcing](https://en.wikipedia.org/wiki/Crowdsourcing) and the [success of wikipedia](https://www.theguardian.com/technology/2004/oct/26/g2.onlinesupplement)
-* importantly, and possibly counterintuitively, openness and transparancy have become a means for [incentivizing quality](http://www.zdnet.com/article/coverity-finds-open-source-software-quality-better-than-proprietary-code/) rather than sloppiness; however, note [predatory open access publishing](https://en.wikipedia.org/wiki/Predatory_open_access_publishing)
+* importantly, and possibly counterintuitively, openness and transparancy have become a means for [incentivizing quality](http://www.zdnet.com/article/coverity-finds-open-source-software-quality-better-than-proprietary-code/) rather than sloppiness; 
+* however, note [predatory open access publishing](https://en.wikipedia.org/wiki/Predatory_open_access_publishing)
 * professional editors, too, can be fooled: [SciGen](https://pdos.csail.mit.edu/archive/scigen/) and [MathGen](http://thatsmathematics.com/mathgen/); for a history of hoaxes, see the [wikipedia-page](https://en.wikipedia.org/wiki/SCIgen)
 * [retraction watch](https://retractionwatch.com/)
 * pitfalls of popular, proprietary formats:
   * Fowler, Dan. 2017. “Excel Is Threatening the Quality of Research Data — Data Packages Are Here to Help.” February 22. http://blogs.lse.ac.uk/impactofsocialsciences/2017/02/22/excel-is-threatening-the-quality-of-research-data-data-packages-are-here-to-help/.
   * Strasser, Carly. 2015. “Introduction to Open Science: Why Data Versioning and Data Care Practices Are Key for Science and Social Science.” February 9. http://blogs.lse.ac.uk/impactofsocialsciences/2015/02/09/data-versioning-open-science/.
-  * a new player: [Coda](https://coda.io/welcome) - "we need a doc that can keep up with today’s super-collaborative world."
-
+ 
 #### Tools and packages
 * **general: [Github](https://www.github.com)**
   * Perkel, Jeffrey. 2016. “[Democratic Databases: Science on GitHub.](https://www.nature.com/news/democratic-databases-science-on-github-1.20719)” *Nature News*  538 (7623): 127.
@@ -17,10 +17,13 @@
   * and [why don't you try it out yourself](https://try.github.io/)?
 
 * **collaborative writing**: 
+  * from Google docs to [Coda](https://coda.io/welcome) - "we need a doc that can keep up with today’s super-collaborative world."
   * [Overleaf](https://www.overleaf.com/), [ShareLatex](https://www.sharelatex.com/); also, note the existence of the [ctan](https://www.ctan.org/)-pages, a library for packages you may need to install when using LaTex. 
   * [Authorea](https://www.authorea.com/) for collaborative writing
   * [Fidus Writer](https://www.fiduswriter.org/) and [Manuscripts.io](https://www.manuscripts.io/about/) 
   * these days, google docs too has a nice LaTex (or more accurately, MathJax) integration: [Auto-LaTeX-equations](https://sites.google.com/site/autolatexequations/)
+
+* **the rise of dynamic documents**
   * [knitr](https://yihui.name/knitr/) with R and Latex: "The <strong>knitr</strong> package was designed to be a transparent engine for dynamic report generation with R, solve some long-standing problems in Sweave, and combine features in other add-on packages into one package (<strong>knitr</strong> &asymp; Sweave + cacheSweave + pgfSweave + weaver <code>animation::saveLatex</code> + <code>R2HTML::RweaveHTML</code> + <code>highlight::HighlightWeaveLatex</code> + 0.2 * brew + 0.1 * SweaveListingUtils + more)."
   * [Overleaf](https://www.overleaf.com/) with [CodeOcean](https://codeocean.com/); compare this [(rather long) case-study](https://www.overleaf.com/blog/529-case-study-an-introduction-to-code-ocean-creating-and-uploading-content-into-overleaf)
   * comparable to the aforementioned Ctan-pages, there exists a library for R-packages, which is called [Cran](https://cran.r-project.org).
@@ -28,6 +31,8 @@
   * Since November 2017, Google made public its internal tool for data science and machine learning workflow. It's called [Colaboratory](https://www.google.ch/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi48KOgl63XAhUOC-wKHbHYAlEQFggoMAA&url=https%3A%2F%2Fresearch.google.com%2Fcolaboratory%2Funregistered.html&usg=AOvVaw12gzhEUgPt0MpBLiztHLKN), and it is based on the Jupyter notebook environment mentioned earlier. The difference is that Colaboratory allows you to use and share Jupyter notebooks with others without having to download, install, or run anything on your own computer other than a browser.
   * [Stencila](https://stenci.la/): "The calls for research to be transparent and reproducible have never been louder. But today's tools for reproducible research can be intimidating - especially if you're not a coder. We're building software for reproducible research with the intuitive, visual interfaces that you and your colleagues are used to."
   * [Julia](https://julialang.org/) and [Weave.jl](https://github.com/mpastell/Weave.jl): is this the 'dynamic documents' of the (immediate) future?
+
+* **code editors**
   * [Sublime Text](https://www.sublimetext.com/): "Sublime Text is a sophisticated text editor for code, markup and prose. Sublimetext has [Zotero-support](http://ww1.latexing.com/).
 You'll love the slick user interface, extraordinary features and amazing performance."; for chromebook users, see [Caret](http://thomaswilburn.net/caret/) and [Zed](http://zedapp.org/).
   * I am a fan of [Atom](https://atom.io/), developed by the good people at GitHub.
@@ -38,6 +43,8 @@ You'll love the slick user interface, extraordinary features and amazing perform
 
 * **data management tool**
   * [data management plan tool](https://dmptool.org/)
+
+* **a case study: data science with Python**
 
 #### To watch:
 * 14mech14. 2017. LaTeX Tutorial 10a: LaTeX + R, Knitr. Accessed April 10. https://www.youtube.com/watch?v=LrWBHqN3TUE.
