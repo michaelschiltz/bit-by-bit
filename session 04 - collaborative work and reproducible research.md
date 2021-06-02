@@ -48,7 +48,7 @@ You'll love the slick user interface, extraordinary features and amazing perform
   * [Jupyter project documentation](https://jupyter.readthedocs.io/en/latest/index.html)
   * A [whirlwind tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython) (by Jake VanderPlas)
   * The [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook), also available as a [Colab notebook](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb) (also by Jake VanderPlas)
-  * [Getting started with Jupyter Notebooks for Python](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46), i.e. working with Jupyter Notebooks locally (installatio either with `pip` or `Anaconda`).
+  * [Getting started with Jupyter Notebooks for Python](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46), i.e. working with Jupyter Notebooks locally (installation either with `pip` or `Anaconda`).
 
 #### To watch:
 * 14mech14. 2017. LaTeX Tutorial 10a: LaTeX + R, Knitr. Accessed April 10. https://www.youtube.com/watch?v=LrWBHqN3TUE.
