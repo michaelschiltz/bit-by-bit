@@ -42,7 +42,7 @@ You'll love the slick user interface, extraordinary features and amazing perform
   * the quest for transparency may even change the process of scientific publishing: see, for instance, [ScienceOpen](https://www.scienceopen.com/), "a professional networking platform for scholars to enhance their research in the open, make an impact, and receive credit for it. We provide context building services for publishers, to bring researchers closer to the content than ever before." 
 
 * **data management tool**
-  * [data management plan tool](https://dmptool.org/)
+  * [data management plan tool](https://library.stanford.edu/research/data-management-services/data-management-plans#:~:text=A%20data%20management%20plan%20(DMP,share%20and%20preserve%20your%20data.)
 
 * **a case study: data science with Python**
   * [Jupyter project documentation](https://jupyter.readthedocs.io/en/latest/index.html)
