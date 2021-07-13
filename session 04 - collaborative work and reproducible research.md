@@ -2,25 +2,30 @@
 * [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_Law): "Given enough eyeballs, all bugs are shallow"; and [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/).
 * `open source` and `open access`
 * [crowdsourcing](https://en.wikipedia.org/wiki/Crowdsourcing) and the [success of wikipedia](https://www.theguardian.com/technology/2004/oct/26/g2.onlinesupplement)
-* importantly, and possibly counterintuitively, openness and transparancy have become a means for [incentivizing quality](http://www.zdnet.com/article/coverity-finds-open-source-software-quality-better-than-proprietary-code/) rather than sloppiness; 
+* importantly, and possibly counterintuitively, openness and transparancy have become a means for [incentivizing quality](http://www.zdnet.com/article/coverity-finds-open-source-software-quality-better-than-proprietary-code/) rather than sloppiness;
 * however, note [predatory open access publishing](https://en.wikipedia.org/wiki/Predatory_open_access_publishing)
 * professional editors, too, can be fooled: [SciGen](https://pdos.csail.mit.edu/archive/scigen/) and [MathGen](http://thatsmathematics.com/mathgen/); for a history of hoaxes, see the [wikipedia-page](https://en.wikipedia.org/wiki/SCIgen)
 * [retraction watch](https://retractionwatch.com/)
 * pitfalls of popular, proprietary formats:
   * Fowler, Dan. 2017. “Excel Is Threatening the Quality of Research Data — Data Packages Are Here to Help.” February 22. http://blogs.lse.ac.uk/impactofsocialsciences/2017/02/22/excel-is-threatening-the-quality-of-research-data-data-packages-are-here-to-help/.
   * Strasser, Carly. 2015. “Introduction to Open Science: Why Data Versioning and Data Care Practices Are Key for Science and Social Science.” February 9. http://blogs.lse.ac.uk/impactofsocialsciences/2015/02/09/data-versioning-open-science/.
- 
+
 #### Tools and packages
 * **general: [Github](https://www.github.com)**
   * Perkel, Jeffrey. 2016. “[Democratic Databases: Science on GitHub.](https://www.nature.com/news/democratic-databases-science-on-github-1.20719)” *Nature News*  538 (7623): 127.
   * [Why we need a GitHub for science](http://www.slate.com/articles/technology/future_tense/2017/04/we_need_a_github_for_academic_research.html)
   * and [why don't you try it out yourself](https://try.github.io/)?
 
-* **collaborative writing**: 
+* **collaborative learning**
+  * [Stack Overflow](https://stackoverflow.com/)
+  * [Code Project](https://www.codeproject.com/)
+  * A Japanese alternative: [Qiita](https://qiita.com/)
+
+* **collaborative writing**:
   * from Google docs to [Coda](https://coda.io/welcome) - "we need a doc that can keep up with today’s super-collaborative world."
-  * [Overleaf](https://www.overleaf.com/), [ShareLatex](https://www.sharelatex.com/); also, note the existence of the [ctan](https://www.ctan.org/)-pages, a library for packages you may need to install when using LaTex. 
+  * [Overleaf](https://www.overleaf.com/), [ShareLatex](https://www.sharelatex.com/); also, note the existence of the [ctan](https://www.ctan.org/)-pages, a library for packages you may need to install when using LaTex.
   * [Authorea](https://www.authorea.com/) for collaborative writing
-  * [Fidus Writer](https://www.fiduswriter.org/) and [Manuscripts.io](https://www.manuscripts.io/about/) 
+  * [Fidus Writer](https://www.fiduswriter.org/) and [Manuscripts.io](https://www.manuscripts.io/about/)
   * these days, google docs too has a nice LaTex (or more accurately, MathJax) integration: [Auto-LaTeX-equations](https://sites.google.com/site/autolatexequations/)
 
 * **the rise of dynamic documents**
@@ -40,7 +45,7 @@ You'll love the slick user interface, extraordinary features and amazing perform
 
 * **data sharing**: [figshare](https://figshare.com/), [zenodo](https://www.zenodo.org/), and [Dryad](https://datadryad.org/); [OpenAire](https://www.openaire.eu/), and Harvard's [DataVerse](https://dataverse.org/)-project
   * as an important player, [Nature has started to take the reproducibility very seriously](https://www.nature.com/news/announcement-towards-greater-reproducibility-for-life-sciences-research-in-nature-1.22062?WT.mc_id=TWT_NatureNews&sf84509261=1).
-  * the quest for transparency may even change the process of scientific publishing: see, for instance, [ScienceOpen](https://www.scienceopen.com/), "a professional networking platform for scholars to enhance their research in the open, make an impact, and receive credit for it. We provide context building services for publishers, to bring researchers closer to the content than ever before." 
+  * the quest for transparency may even change the process of scientific publishing: see, for instance, [ScienceOpen](https://www.scienceopen.com/), "a professional networking platform for scholars to enhance their research in the open, make an impact, and receive credit for it. We provide context building services for publishers, to bring researchers closer to the content than ever before."
 
 * **data management tool**
   * [data management plan tool](https://library.stanford.edu/research/data-management-services/data-management-plans)
