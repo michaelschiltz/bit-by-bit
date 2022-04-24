@@ -16,7 +16,7 @@ This session discusses ways of doing research from within the browser window
 * [canaryhaz](https://www.canaryhaz.com/), 
 * [scite](https://chrome.google.com/webstore/detail/scite/homifejhmckachdikhkgomachelakohh)
 * [connectedpapers](https://www.connectedpapers.com/)
-* [elicit.org](https://elicit.org/), an AI-pwered search engine that lets you explore research questions and links to papers.
+* [elicit.org](https://elicit.org/), an AI-powered search engine that lets you explore research questions and links to papers.
 
 #### Social bookmarking for academics: 
 * [delicious](https://del.icio.us/); [diigo.com](https://www.diigo.com/index)
