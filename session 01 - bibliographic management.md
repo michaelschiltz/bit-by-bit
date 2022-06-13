@@ -31,6 +31,7 @@ alternatives: [students are encouraged to compare alternative software packages 
 
 
 #### Further reading
+
 * Bohannon, John, 2016, and 2:00 Pm. 2016. “Who’s Downloading Pirated Papers? Everyone.” *Science* | AAAS. April 25. http://www.sciencemag.org/news/2016/04/whos-downloading-pirated-papers-everyone.
 * Bohannon, John. 2016. “The Frustrated Science Student behind Sci-Hub.” *Science* 352 (6285): 511–511. http://science.sciencemag.org/content/352/6285/511.short.
 * Green, Toby. 2017. “We’ve Failed: Pirate Black Open Access Is Trumping Green and Gold and We Must Change Our Approach.” *Learned Publishing*, n/a – n/a. Accessed September 9. doi:10.1002/leap.1116.
