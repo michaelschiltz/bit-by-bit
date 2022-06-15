@@ -10,10 +10,12 @@ Also handy: [Zotfile](http://zotfile.com/), a "Zotero plugin to manage your atta
 alternatives: [students are encouraged to compare alternative software packages with Zotero, discuss pros and cons, ]: Mendeley, ....
 
 #### Related: the pros and cons of clandestine libraries or the 'Guerilla Open Access movement'...
+
 * knowledge is now freely available, including to poorly financed institutions
 * however, to what degree is this a sustainable solution to the crisis of scholarly publishing?
 
 #### ...and the case for openness:
+
 * [Paywall the Movie: The Business of Scholarship](http://paywallthemovie.com/)
 
 #### Alternative access to research papers:
