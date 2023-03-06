@@ -14,6 +14,9 @@ This session discusses ways of doing research from within the browser window
 * [wayback machine extension (chrome only)](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak),
 * [unpaywall](http://unpaywall.org/), 
 * [canaryhaz](https://www.canaryhaz.com/), later renamed Kopernio, later renamed [EndNote click](https://kopernio.com/)
+
+
+#### finding more literature
 * [scite](https://chrome.google.com/webstore/detail/scite/homifejhmckachdikhkgomachelakohh)
 * [connectedpapers](https://www.connectedpapers.com/)
 * [litmaps.com](https://www.litmaps.com/)
