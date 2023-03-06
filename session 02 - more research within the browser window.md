@@ -16,6 +16,7 @@ This session discusses ways of doing research from within the browser window
 * [canaryhaz](https://www.canaryhaz.com/), later renamed Kopernio, later renamed [EndNote click](https://kopernio.com/)
 * [scite](https://chrome.google.com/webstore/detail/scite/homifejhmckachdikhkgomachelakohh)
 * [connectedpapers](https://www.connectedpapers.com/)
+* [litmaps.com](https://www.litmaps.com/)
 * [elicit.org](https://elicit.org/), an AI-powered search engine that lets you explore research questions and links to papers.
 
 #### Social bookmarking for academics: 
