@@ -22,6 +22,7 @@ This session discusses ways of doing research from within the browser window
 * [litmaps.com](https://www.litmaps.com/)
 * [elicit.org](https://elicit.org/), an AI-powered search engine that lets you explore research questions and links to papers.
 * [scinapse](https://www.scinapse.io/)
+* [scispace](https://typeset.io/)
 
 #### Social bookmarking for academics: 
 * [delicious](https://del.icio.us/); [diigo.com](https://www.diigo.com/index)
