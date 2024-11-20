@@ -21,6 +21,7 @@ This session discusses ways of doing research from within the browser window
 * [connectedpapers](https://www.connectedpapers.com/)
 * [litmaps.com](https://www.litmaps.com/)
 * [elicit.org](https://elicit.org/), an AI-powered search engine that lets you explore research questions and links to papers.
+* [undermind.io](https://undermind.io/), a tool that helps you find papers that are relevant to your research.
 * [scinapse](https://www.scinapse.io/)
 * [scispace](https://typeset.io/)
 
