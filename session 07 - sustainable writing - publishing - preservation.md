@@ -26,7 +26,7 @@
 * about file formats, technology, and legal arrangements
  * [digital preservation coalition handbook](http://www.dpconline.org/handbook/technical-solutions-and-tools/file-formats-and-standards)
  * [Library of Congress recommended format specifications](https://www.loc.gov/preservation/resources/rfs/index.html)
- * tjowens. 2017. "Full Draft of Theory & Craft of Digital Preservation." June 30. http://www.trevorowens.org/2017/06/full-draft-of-theory-craft-of-digital-preservation/ (a preprint is available [here](https://osf.io/preprints/lissa/5cpjt)).
+ * tjowens. 2017. "Full Draft of Theory & Craft of Digital Preservation." June 30. <http://www.trevorowens.org/2017/06/full-draft-of-theory-craft-of-digital-preservation/> (a preprint is available [here](https://osf.io/preprints/lissa/5cpjt)).
  * about online, offline and 'near-line': WORM (Write Once, Read Many)-technology and the future of preservation
  * what is an 'exit-strategy' for digital archives?
 * markdown and [digital preservation](https://publish.illinois.edu/commonsknowledge/2016/12/01/digital-preservation-and-the-power-of-markdown/), including for [documenting your own research](http://programminghistorian.org/lessons/preserving-your-research-data)
